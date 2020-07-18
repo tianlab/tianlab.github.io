@@ -23,22 +23,61 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>test</title>
-      <link>/2020/07/18/test/</link>
-      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <title>硕士生：苟晓芸</title>
+      <link>/2019/09/01/gouxiaoyun/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2020/07/18/test/</guid>
+      <guid>/2019/09/01/gouxiaoyun/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>硕士生：顾诗瑶</title>
+      <link>/2018/09/01/gushiyao/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>/2018/09/01/gushiyao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>硕士生：陈飞宇</title>
+      <link>/2017/09/01/chenfeiyu/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/01/chenfeiyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>硕士生：黄斌</title>
+      <link>/2017/09/01/huangbin/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/01/huangbin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>硕士生：王诗炎</title>
+      <link>/2015/09/01/wangshiyan/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/01/wangshiyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>/links/</link>
+      <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
+      
+      <guid>/links/</guid>
+      <description>四川大学[校车表][校历]
+系统[信息门户][财务][教务][科研][国资]
+教学[官网][研究生院][教务处][各学院]
+科研[科研院][社科处][设备处]
+国际交流社会服务GIS数据</description>
     </item>
     
     <item>
@@ -47,9 +86,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>综合减灾研究室 XRLAB 研究室介绍 研究室介绍
-团队介绍 项目合作 DREAM项目
-联系方式  校区：四川大学江安校区（东校区） 地址：四川省成都市双流区黄河中路一段122号 香港马会大楼 单位：四川大学-香港理工大学 灾后重建与管理学院 (IDMR) 邮编：610207 邮件：bwtian@qq.com  </description>
+      <description>综合减灾研究室 XRLAB1. 研究室介绍研究室介绍
+2. 团队介绍老师田兵伟 副教授
+研究生学生社团项目组3. 项目合作DREAM项目
+4. 联系方式校区：四川大学江安校区（东校区）地址：四川省成都市双流区黄河中路一段122号 香港马会大楼单位：四川大学-香港理工大学 灾后重建与管理学院 (IDMR)邮编：610207邮件：bwtian@qq.com</description>
     </item>
     
     <item>
@@ -58,8 +98,8 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Wed, 15 Jul 2015 13:09:13 -0600</pubDate>
       
       <guid>/2015/07/15/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</guid>
-      <description>XRLAB中的XR主要指研究的兴趣和方向，LAB指研究室，XRLAB简称综合减灾研究室。
-以Resilience为中心的DRR综合减灾研究  Reduction 防灾减灾：讲授课程《国际减灾战略与应急管理》 Response 应急响应 Recovery 灾后恢复 Reconstruction 灾后重建规划 Rehablitation 灾后康复 Risk Communication 风险沟通与校园安全：讲授课程《安全知识和应急基本技能》  以RS为中心的3S减灾技术  RS 遥感 GIS 地理信息系统  讲授硕士课程《3S减灾技术及其应用》   GNSS 导航定位系统 UAV 无人机技术  讲授本科课程《无人飞行器在防灾减灾中的应用》   Map 参与式制图方法  DREAM地图, 主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016    以VR为中心的虚拟仿真技术  VR 虚拟现实 AR 扩展现实 MR 混合现实 BIM 建筑信息模型与数字孪生  以R为中心的灾害大数据技术  R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》 R Visualization 可视化 R GeoHealth 健康地理大数据  </description>
+      <description>XRLAB中的XR主要指研究的兴趣和方向，LAB指研究室，XRLAB简称综合减灾研究室。
+以Resilience为中心的DRR综合减灾研究Reduction 防灾减灾：讲授课程《国际减灾战略与应急管理》Response 应急响应Recovery 灾后恢复Reconstruction 灾后重建规划Rehablitation 灾后康复Risk Communication 风险沟通与校园安全：讲授课程《安全知识和应急基本技能》以RS为中心的3S减灾技术RS 遥感GIS 地理信息系统讲授硕士课程《3S减灾技术及其应用》GNSS 导航定位系统UAV 无人机技术讲授本科课程《无人飞行器在防灾减灾中的应用》Map 参与式制图方法DREAM地图,主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016以VR为中心的虚拟仿真技术VR 虚拟现实AR 扩展现实MR 混合现实BIM 建筑信息模型与数字孪生以R为中心的灾害大数据技术R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》R Visualization 可视化R GeoHealth 健康地理大数据</description>
     </item>
     
   </channel>
