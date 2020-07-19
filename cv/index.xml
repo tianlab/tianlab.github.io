@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on XRLAB 综合减灾研究室</title>
+    <link>/cv/</link>
+    <description>Recent content in Cvs on XRLAB 综合减灾研究室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/cv/tiancv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/tiancv/</guid>
+      <description>EducationData consulting experienceTeaching experienceUniversity{My teaching quality at Monash University has been consistently recognised with positive student evaluations and individual praise from my students. I have also been awarded four congratulatory letters for outstanding student evaluations for three of my units (ETF5231, ETC3580, ETC3550), which indicates that student feedback for the unit is among the best in the university.}
+Workshops{In addition to sessional teaching, I occasionally teach data analysis skills using R at workshops.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/tiancv.knit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/tiancv.knit/</guid>
+      <description>Education \detailedsection{\detaileditem{BCom (Hons) in Econometrics}{Mar. 2017 - Nov. 2017}{Monash University}{Clayton, Australia}{\item{Recipient of the Econometrics Honours Memorial Scholarship, Dean&amp;rsquo;s Honour, Dean&amp;rsquo;s Commendation, and best in class for 5 units.}\item{Honours research project was to develop a state space model for quickly forecasting time series with multiple seasonalities.}\item{Studied units include Bayesian and frequentist econometrics, advanced statistical modelling and computational science.}}\detaileditem{BCom in Econometrics, BSc in Mathematical statistics and Computational Science}{Mar. 2013 - Nov. 2016}{Monash University}{Clayton, Australia}{\item{Recipient of the Monash Community Leaders Scholarship, International Institute of Forecasters Award, and best in class for 4 units.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/tiancv.utf8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/tiancv.utf8/</guid>
+      <description>Education \detailedsection{\detaileditem{BCom (Hons) in Econometrics}{Mar. 2017 - Nov. 2017}{Monash University}{Clayton, Australia}{\item{Recipient of the Econometrics Honours Memorial Scholarship, Dean&amp;rsquo;s Honour, Dean&amp;rsquo;s Commendation, and best in class for 5 units.}\item{Honours research project was to develop a state space model for quickly forecasting time series with multiple seasonalities.}\item{Studied units include Bayesian and frequentist econometrics, advanced statistical modelling and computational science.}}\detaileditem{BCom in Econometrics, BSc in Mathematical statistics and Computational Science}{Mar. 2013 - Nov. 2016}{Monash University}{Clayton, Australia}{\item{Recipient of the Monash Community Leaders Scholarship, International Institute of Forecasters Award, and best in class for 4 units.</description>
+    </item>
+    
+  </channel>
+</rss>
