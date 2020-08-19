@@ -6,10 +6,19 @@
     <description>Recent content on XRLAB 综合减灾研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【3S软件】omap 奥维地图</title>
+      <link>/2020/08/06/omap/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/06/omap/</guid>
+      <description>功能标签轨迹图形优势平台多人协作</description>
+    </item>
     
     <item>
       <title>数据：3S数据源链接</title>
@@ -191,12 +200,13 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
       
       <guid>/links/</guid>
-      <description>搜索资料搜索[兔兔][风云][文库]
+      <description>搜索IDMR友情链接[IDMR][Basanta][Glenn]
 四川大学[校车表][校历]
 系统[信息门户][财务][教务][科研][国资]
 教学[官网][研究生院][教务处][各学院]
 科研[科研院][社科处][设备处]
 国际交流社会服务GIS数据【数据】3S数据源链接
+资料搜索[兔兔][风云][文库]
 </description>
     </item>
     
