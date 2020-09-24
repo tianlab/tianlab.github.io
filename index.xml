@@ -6,10 +6,24 @@
     <description>Recent content on XRLAB 综合减灾研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>数据：3S数据源链接</title>
+      <link>/2020/09/24/3s-data-link/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/24/3s-data-link/</guid>
+      <description>综合freegisdata 一个很不错的综合GIS数据源
+Gramin Daily
+OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.shp.zip
+亚洲中国阿里地图选择器防灾减灾知识服务
+日本尼泊尔美洲美国USGS
+RSGNSS</description>
+    </item>
     
     <item>
       <title>【大创】19-20指导大学生创新创业训练项目</title>
@@ -33,17 +47,6 @@
 云盘百度云微云
 群组微云共享组MendeleyG
 </description>
-    </item>
-    
-    <item>
-      <title>数据：3S数据源链接</title>
-      <link>/2020/08/19/3s-data-link/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/08/19/3s-data-link/</guid>
-      <description>综合freegisdata 一个很不错的综合GIS数据源Gramin DailyOSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.shp.zip
-亚洲中国日本尼泊尔美洲美国USGS
-RSGNSS</description>
     </item>
     
     <item>
