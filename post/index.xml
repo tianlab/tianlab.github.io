@@ -6,17 +6,17 @@
     <description>Recent content in Posts on XRLAB 综合减灾研究室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>数据：3S数据源链接</title>
-      <link>/2020/09/24/3s-data-link/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <title>【数据】3S数据源链接</title>
+      <link>/2020/10/04/3s-data-link/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/09/24/3s-data-link/</guid>
+      <guid>/2020/10/04/3s-data-link/</guid>
       <description>综合freegisdata 一个很不错的综合GIS数据源
 Gramin Daily
 OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.shp.zip
@@ -38,7 +38,7 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>常用在线文档工具</title>
+      <title>【软件】常用在线文档工具</title>
       <link>/2020/08/22/onlinetools/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -50,7 +50,7 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>【3S软件】omap 奥维地图</title>
+      <title>【软件】omap 奥维地图</title>
       <link>/2020/08/06/omap/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -212,13 +212,13 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title>为什么叫XRLAB？</title>
-      <link>/2015/07/15/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</link>
+      <title>【初心】为什么叫XRLAB？</title>
+      <link>/2015/07/15/%E5%88%9D%E5%BF%83%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/15/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</guid>
+      <guid>/2015/07/15/%E5%88%9D%E5%BF%83%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</guid>
       <description>XRLAB中的XR主要指研究的兴趣和方向，LAB指研究室，XRLAB简称综合减灾研究室。
-以Resilience为中心的DRR综合减灾研究Reduction 事前防灾减灾Readiness 事发应对应变Response 事中应急响应Recovery 事后恢复善后Reconstruction 灾后重建规划Rehablitation 灾后康复Risk Communication 风险沟通与校园安全Resilience 韧性：一心强韧，综合减灾以RS为中心的3S减灾技术RS 遥感GIS 地理信息系统讲授硕士课程《3S减灾技术及其应用》GNSS 导航定位系统UAV 无人机技术讲授本科课程《无人飞行器在防灾减灾中的应用》Map 参与式制图方法DREAM地图,主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016以VR为中心的虚拟仿真技术VR 虚拟现实AR 扩展现实MR 混合现实BIM 建筑信息模型与数字孪生以R为中心的灾害大数据技术R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》R Visualization 可视化R GeoHealth 健康地理大数据</description>
+以Resilience为中心的DRR综合减灾研究Risk Assessment &amp;amp; Avoidance/Prevention 事前防灾免灾避灾Risk Reduction/Mitigation/ 事前减灾发展Readiness/Preparation/Risk transfer 事前备灾应急准备Response 事中应变应急响应Recovery 事后恢复善后Reconstruction 灾后重建规划Rehablitation 灾后康复Return/Risk retention 恢复到原状Risk Communication 风险沟通Resilience 韧性：一心强韧，综合减灾以RS为中心的3S减灾技术RS 遥感GIS 地理信息系统讲授硕士课程《3S减灾技术及其应用》GNSS 导航定位系统UAV 无人机技术讲授本科课程《无人飞行器在防灾减灾中的应用》Map 参与式制图方法DREAM地图,主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016以VR为中心的虚拟仿真技术VR 虚拟现实AR 扩展现实MR 混合现实BIM 建筑信息模型与数字孪生以R为中心的灾害大数据技术R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》R Visualization 可视化R GeoHealth 健康地理大数据</description>
     </item>
     
   </channel>
