@@ -26,12 +26,43 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
+      <title>【软件】markdown入门及学术写作</title>
+      <link>/2020/10/04/markdown/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/10/04/markdown/</guid>
+      <description>第一部分 Markdown本书目标一本介绍git的markdown书一本介绍防灾减灾的markdown书一本供XRLAB实验室使用的markdown参考书前言互联网大数据时代，大家都开始将笔记记录在云端，你是否在记录笔记的时候还在选中 =》调整格式 =》调整段落；好吧，你OUT了，MarkDown是一种能快速规范格式的语法，只要几个小小的标识符即可飞快的完成格式化笔记，而且支持各类浏览器直接阅读。在每个CODE项目中，都会标配一个文件叫readme.md的文件，来说明程序是干什么的。
+第一章 什么是markdown (WHAT)本章主要让大家了解 Markdown 是什么。Markdown 是目前互联网上最流行的写作语言，它使用一些简单的符号（* / ` &amp;gt; [] () #）来标记文本格式，其简洁的语法、优美的格式以及强大的软件支持深受广大网友的喜爱。## 定义&amp;gt; 维基百科上对 Markdown 的描述：” Markdown 是一种轻量级标记语言，创始人是约翰·格鲁伯（John Gruber）（博客）。它允许人们 “使用易读易写的纯文本格式编写文档，然后转换成有效的 HTML 文档。”
+学习曲线大家千万不要被一些专业术语唬住了，其实 Markdown 之所以流行，最主要的原因就是因为它的学习门槛很低，你可能只需花几分钟就可以入门了。学习曲线非常平缓，学习起来极其友好。
+发展历史目前现状网页方面文档方面第二章 为什么学用Markdown (WHY)为什么要用 Markdown？回想一下我们在写作的时候会遇到什么样的问题？
+软件不会用：Word 应该是大家写作时最常用的软件，每当打开一个 Word 文档，速度慢先不说，光是复杂繁多的功能就已经足够让你眼花缭乱了，如果你不是专业的编辑，相信绝大部分功能你是用不到的。消除浪费，应该是现代互联网时代大家最先要学会的事情。</description>
+    </item>
+    
+    <item>
       <title>田老师</title>
       <link>/tian/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tian/</guid>
       <description>简介一、工作经历（一） 四川大学1. 专任岗位四川大学 灾后重建与管理学院 教师，副教授、硕导 | 2015 –至今2. 兼任岗位全国青少年防灾减灾教育培训基地 | 2018 –至今国家紧急医学救援基地 科研人员 | 2018 –至今四川省自然灾害应急管理与灾后重建研究智库 专家 | 2018 –至今四川省应急管理厅——四川大学 综合减灾研究中心 专家 | 2019 –至今护理学四川省重点实验室 专家 | 2020 – 至今四川大学 安全应急技能训练中心 | 2019 –至今四川大学 华西医院/华西临床医学院 博士后| 2017 –至今（二）学术任职中国应急管理学会 标准专委会 委员 | 2020 – 至今应急与安全产教融合联盟 专家委员会 委员 | 2019 – 至今中国医学救援协会 保险分会和科普分会 理事 | 2018 – 至今四川省应急管理学会 校园安全专委会 秘书长 | 2020 – 至今（三）客座兼职特里布汶大学危机管理学院(尼泊尔加德满都) 客座教师 | 2018 – 至今亚洲防灾中心(日本神户) 客座研究员 | 2015 – 2020（四）短期工作（五）期刊审稿二、人才培养（一） 招生专业硕士：安全科学与减灾 （灾后重建与管理学院）硕士：城乡安全与减灾规划 （建筑与环境学院）本科：国际减灾与应急管理 （灾后重建与管理学院）（二） 招生方向灾害信息：3S减灾技术、虚拟现实减灾技术、大数据减灾技术韧性规划：韧性一带一路、韧性基础设施、韧性城市、韧性社区、韧性校园应急管理：应急标准化、应急信息化、应急预案、应急演练、应急技能训练安全教育：灾害教育、校园安全、安防运动、风险沟通、课程开发自然灾害：滑坡风险评估、气候变化响应、城市热浪灾害等（三） 指导社团四川大学 空间信息技术协会 | 2015 – 至今</description>
+    </item>
+    
+    <item>
+      <title>【SIT】2020空间信息技术学会任职公示</title>
+      <link>/2020/09/01/2020sit-leaders/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/01/2020sit-leaders/</guid>
+      <description>会长干事主要活动计划</description>
+    </item>
+    
+    <item>
+      <title>【硕士】郑帆帆</title>
+      <link>/2020/09/01/zhengfanfan/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/01/zhengfanfan/</guid>
+      <description>研究方向参与项目发表论文荣誉获奖硕士论文毕业去向</description>
     </item>
     
     <item>
@@ -65,19 +96,6 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
       
       <guid>/2020/08/06/omap/</guid>
       <description>功能标签轨迹图形优势平台多人协作</description>
-    </item>
-    
-    <item>
-      <title>markdown入门及学术写作</title>
-      <link>/2020/07/27/markdown/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/07/27/markdown/</guid>
-      <description>第一部分 Markdown本书目标一本介绍git的markdown书一本介绍防灾减灾的markdown书一本供XRLAB实验室使用的markdown参考书前言互联网大数据时代，大家都开始将笔记记录在云端，你是否在记录笔记的时候还在选中 =》调整格式 =》调整段落；好吧，你OUT了，MarkDown是一种能快速规范格式的语法，只要几个小小的标识符即可飞快的完成格式化笔记，而且支持各类浏览器直接阅读。在每个CODE项目中，都会标配一个文件叫readme.md的文件，来说明程序是干什么的。
-第一章 什么是markdown (WHAT)本章主要让大家了解 Markdown 是什么。Markdown 是目前互联网上最流行的写作语言，它使用一些简单的符号（* / ` &amp;gt; [] () #）来标记文本格式，其简洁的语法、优美的格式以及强大的软件支持深受广大网友的喜爱。## 定义&amp;gt; 维基百科上对 Markdown 的描述：” Markdown 是一种轻量级标记语言，创始人是约翰·格鲁伯（John Gruber）（博客）。它允许人们 “使用易读易写的纯文本格式编写文档，然后转换成有效的 HTML 文档。”
-学习曲线大家千万不要被一些专业术语唬住了，其实 Markdown 之所以流行，最主要的原因就是因为它的学习门槛很低，你可能只需花几分钟就可以入门了。学习曲线非常平缓，学习起来极其友好。
-发展历史目前现状网页方面文档方面第二章 为什么学用Markdown (WHY)为什么要用 Markdown？回想一下我们在写作的时候会遇到什么样的问题？
-软件不会用：Word 应该是大家写作时最常用的软件，每当打开一个 Word 文档，速度慢先不说，光是复杂繁多的功能就已经足够让你眼花缭乱了，如果你不是专业的编辑，相信绝大部分功能你是用不到的。消除浪费，应该是现代互联网时代大家最先要学会的事情。</description>
     </item>
     
     <item>
@@ -128,7 +146,7 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>硕士生：苟晓芸</title>
+      <title>【硕士】苟晓芸</title>
       <link>/2019/09/01/gouxiaoyun/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
@@ -156,7 +174,7 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>硕士生：顾诗瑶</title>
+      <title>【硕士】：顾诗瑶</title>
       <link>/2018/09/01/gushiyao/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
@@ -165,21 +183,21 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>硕士生：陈飞宇</title>
+      <title>【硕士】陈飞宇</title>
       <link>/2017/09/01/chenfeiyu/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/09/01/chenfeiyu/</guid>
-      <description></description>
+      <description>发表论文硕士论文毕业去向成都市选调生</description>
     </item>
     
     <item>
-      <title>硕士生：黄斌</title>
+      <title>【硕士】黄斌</title>
       <link>/2017/09/01/huangbin/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/09/01/huangbin/</guid>
-      <description></description>
+      <description>发表论文硕士论文毕业去向成都市选调生</description>
     </item>
     
     <item>
@@ -192,18 +210,18 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>【DREAM】减灾生态艺术地图</title>
+      <title>【地图】从0到1的DREAM减灾生态艺术地图</title>
       <link>/2016/09/29/dream/</link>
       <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/2016/09/29/dream/</guid>
-      <description>快速了解DREAM视频：哔哩哔哩网站：www.tdream.org什么是DREAMDREAM(Disaster Reduction Ecological Artistic Map)，中文名称“减灾生态艺术地图”又叫“减灾绿地图” 或“减灾梦之图”。
+      <description>快速了解DREAM视频：哔哩哔哩网站：www.tdream.org网站：www.safetyzone.vip什么是DREAMDREAM(Disaster Reduction Ecological Artistic Map)，中文名称“减灾生态艺术地图”又叫“减灾绿地图” 或“减灾梦之图”。
 DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社区和中国梦等新理念驱导下，灾害边缘学科的交叉创新；是基础地理环境、灾害风险环境、自然生态环境、人文历史环境和本地艺术表现五个图层在地图上的综合性体现和艺术化展示；是充分吸收防灾减灾地图和绿色生活地图的优点基础上，采用以学生为中心的服务学习方式科学编制和艺术打造的专题地图；是当今世界减灾地图和安全地图相关领域前沿的创新产品。基础图层主要基于卫星雷达、遥感、无人机等技术对景区进行精准测绘采集数据；减灾图层基于GIS、遥感技术进行风险分析，展示灾害风险与防范要点；生态图层和人文图层利用GPS和北斗等定位技术，展现生态文明和历史人文环境。 “DREAM”将枯燥的防灾减灾知识以科学技术+艺术相融合的创新手法科学地融入地图中，是科学与艺术的完美结合。
 </description>
     </item>
     
     <item>
-      <title>社团：四川大学空间信息技术协会简介</title>
+      <title>【SIT】四川大学空间信息技术协会简介</title>
       <link>/2015/10/13/scusit/</link>
       <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
       
@@ -212,12 +230,27 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title>硕士生：王诗炎</title>
+      <title>【硕士】王诗炎</title>
       <link>/2015/09/01/wangshiyan/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>/2015/09/01/wangshiyan/</guid>
-      <description></description>
+      <description>发表论文硕士论文毕业去向事业单位</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>一、关于本站技术框架主要技术github:托管网站git：推送更新md：markdown是基本的内容编写语言R：全面支持R+markdown的内容编写Hugo: 网站模板Rstudio：方便编写内容的编辑器Netlify：发布备用netlify域名主用域名：www.xrlab.org
+备用域名：www.xrlab.org
+二、综合减灾研究室 XRLAB1. 研究室介绍研究室介绍
+2. 团队介绍老师田兵伟 副教授
+研究生学生社团四川大学学术型学生社团1. 空间信息技术学会2. 应急救援学会3. 国际减灾与应急救援学会
+项目组3. 项目合作DREAM项目
+4. 联系方式校区：四川大学江安校区（东校区）地址：四川省成都市双流区黄河中路一段122号 香港马会大楼单位：四川大学-香港理工大学 灾后重建与管理学院 (IDMR)邮编：610207邮件：bwtian@qq.com</description>
     </item>
     
     <item>
@@ -234,18 +267,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
 资料搜索[兔兔][风云][文库]
 XRLAB 内部链接[每周TODO]
 </description>
-    </item>
-    
-    <item>
-      <title>联系我们</title>
-      <link>/about/</link>
-      <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>综合减灾研究室 XRLAB1. 研究室介绍研究室介绍
-2. 团队介绍老师田兵伟 副教授
-研究生学生社团项目组3. 项目合作DREAM项目
-4. 联系方式校区：四川大学江安校区（东校区）地址：四川省成都市双流区黄河中路一段122号 香港马会大楼单位：四川大学-香港理工大学 灾后重建与管理学院 (IDMR)邮编：610207邮件：bwtian@qq.com</description>
     </item>
     
     <item>
