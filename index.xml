@@ -230,21 +230,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>目录一、关于本站二、关于XRLAB三、联系我们四、地理位置一、关于本站技术框架主要技术github:托管网站git：推送更新md：markdown是基本的内容编写语言Hugo: 网站模板R：全面支持R+markdown的高级内容编写RRstudio：方便编写内容的编辑器RstudioNetlify：发布备用netlify域名主用域名：www.xrlab.org备用域名：www.xrlab.org二、 综合减灾研究室1. 研究室介绍研究室介绍
-2. 团队介绍老师田兵伟 副教授
-研究生学生社团四川大学学术型学生社团1. 空间信息技术学会
-应急救援学会
-国际减灾与应急管理学会
-项目组3. 项目合作DREAM地图项目
-三、联系我们校区：四川大学江安校区（东校区）地址：四川省成都市双流区黄河中路一段122号 香港马会大楼单位：四川大学-香港理工大学 灾后重建与管理学院 (IDMR)邮编：610207邮件：bwtian@qq.</description>
-    </item>
-    
-    <item>
       <title>常用链接</title>
       <link>/links/</link>
       <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
@@ -261,12 +246,27 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title>【初心】为什么叫XRLAB？</title>
-      <link>/2015/07/15/%E5%88%9D%E5%BF%83%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</link>
+      <title></title>
+      <link>/about/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/15/%E5%88%9D%E5%BF%83%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%ABxrlab/</guid>
-      <description>XRLAB中的XR主要指研究的兴趣和方向，分别指X个R相关的研究，即研究以Resilience为中心的综合减灾；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以R为中心的灾害大数据技术。LAB是Labratory的缩略，指研究室，固XRLAB简称综合减灾研究室。研究以Resilience为核心的综合减灾Risk Assessment &amp;amp; Avoidance/Prevention 事前防灾免灾避灾Risk Reduction/Mitigation/ 事前减灾发展Readiness/Preparation/Risk transfer 事前备灾应急准备Response 事中应变应急响应Recovery 事后恢复善后Reconstruction 灾后重建规划Rehablitation 灾后康复Return/Risk retention 恢复到原状Risk Communication 风险沟通Resilience 韧性：一心强韧，综合减灾研究以RS为核心的3S减灾技术RS 遥感GIS 地理信息系统讲授硕士课程《3S减灾技术及其应用》GNSS 导航定位系统UAV 无人机技术讲授本科课程《无人飞行器在防灾减灾中的应用》Map 参与式制图方法DREAM地图,主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016研究以VR为核心的虚拟仿真技术VR 虚拟现实AR 扩展现实MR 混合现实BIM 建筑信息模型Digital twin 数字孪生研究以R为核心的灾害大数据技术R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》R Visualization 可视化R GeoHealth 健康地理大数据</description>
+      <guid>/about/</guid>
+      <description>目录一、关于本站二、关于XRLAB三、联系我们四、地理位置一、关于本站技术框架主要技术Github:托管网站Git：推送更新Markdown：基本的内容编写语言Hugo: 网站模板R：全面支持R+markdown的高级内容编写Rstudio：方便编写内容的编辑器Rmarkdown：结合R和markdown的强大动力Netlify：自动发布和发布备用域名主用域名：www.xrlab.org备用域名：xrlab.netlify.app更新管理根据模板用markdown或Rmarkdown格式撰写内容老师审查后修改后可上传并发布二、 综合减灾研究室1. 研究室介绍研究室介绍
+2. 团队介绍老师田兵伟 副教授
+研究生学生社团四川大学学术型学生社团1. 空间信息技术学会
+应急救援学会
+国际减灾与应急管理学会
+项目组3.</description>
+    </item>
+    
+    <item>
+      <title>【初心】为什么叫XRLAB？</title>
+      <link>/2015/07/15/xrlab/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/07/15/xrlab/</guid>
+      <description>XRLAB中的XR主要指研究的兴趣和方向，分别指X个R相关的研究，即研究以Resilience为中心的综合减灾；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以R为中心的灾害大数据技术。LAB是Labratory的缩略，指研究室，固XRLAB简称综合减灾研究室。
+研究以Resilience为核心的综合减灾Risk Assessment &amp;amp; Avoidance/Prevention 事前防灾免灾避灾Risk Reduction/Mitigation/ 事前减灾发展Readiness/Preparation/Risk transfer 事前备灾应急准备Response 事中应变应急响应Recovery 事后恢复善后Reconstruction 灾后重建规划Rehablitation 灾后康复Return/Risk retention 恢复到原状Risk Communication 风险沟通Resilience 韧性：一心强韧，综合减灾研究以RS为核心的3S减灾技术RS 遥感GIS 地理信息系统讲授硕士课程《3S减灾技术及其应用》GNSS 导航定位系统UAV 无人机技术讲授本科课程《无人飞行器在防灾减灾中的应用》Map 参与式制图方法DREAM地图,主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016研究以VR为核心的虚拟仿真技术VR 虚拟现实AR 扩展现实MR 混合现实BIM 建筑信息模型Digital twin 数字孪生研究以R为核心的灾害大数据技术R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》R Visualization 可视化R GeoHealth 健康地理大数据</description>
     </item>
     
     <item>
