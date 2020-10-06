@@ -249,22 +249,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title>常用链接</title>
-      <link>/links/</link>
-      <pubDate>Wed, 15 Jul 2015 21:48:51 -0700</pubDate>
-      
-      <guid>/links/</guid>
-      <description>IDMR友情链接[灾后重建与管理学院]## 中心所[全国青少年防灾减灾研究基地][四川省应急管理厅-四川大学综合减灾研究中心][四川大学安全应急技能训练中心]## 国际平台[AOA-HELP][Uinspire][HUC-DRRR]## 个人网站[Basanta][Glenn]## 双创[安全圈]
-四川大学[校车表][校历]
-系统[信息门户][财务处][教务处][科研院][设备处]http://smartlab.scu.edu.cn/lims/home/index.dhtml## 教学[大创][泛雅][研究生院][教务处][各学院]
-科研[科研院][社科处][设备处]
-国际交流社会服务GIS数据【数据】3S数据源链接
-资料搜索[兔兔][风云][文库]
-XRLAB 内部链接[每周TODO]
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/about/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
@@ -294,6 +278,24 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       <guid>/2015/07/15/idmrtian/</guid>
       <description>田兵伟学院官网信息# 代表性研究成果# 获奖情况# 科研项目
 人才培养</description>
+    </item>
+    
+    <item>
+      <title>常用链接</title>
+      <link>/links/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>IDMR友情链接[灾后重建与管理学院]中心所[全国青少年防灾减灾研究基地][四川省应急管理厅-四川大学综合减灾研究中心][四川大学安全应急技能训练中心]国际平台[AOA-HELP][Uinspire-Huaxia][HUC-DRRR]个人网站[Basanta][Glenn]
+双创[安全圈]
+四川大学[校车表][校历]
+系统[信息门户][财务处][教务处][科研院][设备处]http://smartlab.scu.edu.cn/lims/home/index.dhtml
+教学[大创][泛雅][研究生院][教务处][各学院]
+科研[科研院][社科处][设备处]
+国际交流社会服务GIS数据【数据】3S数据源链接
+资料搜索[兔兔][风云][文库]
+XRLAB 内部链接[每周TODO]
+</description>
     </item>
     
   </channel>
