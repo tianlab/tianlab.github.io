@@ -137,12 +137,12 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>【团队】硕士生：顾诗瑶</title>
+      <title>【团队】硕士生：苟晓芸</title>
       <link>/2019/09/01/gouxiaoyun/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/09/01/gouxiaoyun/</guid>
-      <description>个人介绍在学期间：2017.9 ~ 2020.6硕士论文毕业去向成都市选调生</description>
+      <description>个人介绍在学期间：2019.9 ~ 2022.6硕士论文毕业去向</description>
     </item>
     
     <item>
@@ -165,12 +165,12 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>【硕士】：苟晓芸</title>
+      <title>【团队】硕士生：顾诗瑶</title>
       <link>/2018/09/01/gouxiaoyun/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/09/01/gouxiaoyun/</guid>
-      <description>个人介绍在学期间：2019.9 ~ 2022.6硕士论文毕业去向</description>
+      <description>个人介绍在学期间：2018.9 ~ 2021.6硕士论文毕业去向</description>
     </item>
     
     <item>
@@ -252,7 +252,7 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       
       <guid>/about/</guid>
       <description>目录一、关于本站二、关于XRLAB三、联系我们四、地理位置一、关于本站技术框架学术导向，内容为王；知识丰富，形式从简。
-主要技术Github:托管网站Git：推送更新Markdown：基本的内容编写语言Hugo: 网站模板R：全面支持R+markdown的高级内容编写Rstudio：方便编写内容的编辑器Rmarkdown：结合R和markdown的强大动力Netlify：自动发布和发布备用域名管理主用域名：www.xrlab.org备用域名：xrlab.netlify.app更新管理研究生、创新班成员、社团成员、项目组成员下载网站模板根据模板用markdown或Rmarkdown格式撰写内容内容主要包括专著论文专利软著软件硬件科普项目活动团队获奖其他老师审查后修改后上传并发布二、 综合减灾研究室1. 研究室介绍研究室介绍
+主要技术Github:托管网站Git：推送更新Markdown：基本的内容编写语言Hugo: 网站模板R：全面支持R+markdown的高级内容编写Rstudio：方便编写内容的编辑器Rmarkdown：结合R和markdown的强大动力Netlify：自动发布和发布备用域名管理主用域名：www.xrlab.org备用域名：xrlab.netlify.app更新管理研究生、创新班成员、社团成员、项目组成员下载或自建网站模板根据模板用Markdown、Rmarkdown或HTML格式撰写内容内容主要包括专著论文专利软著软件硬件科普项目活动团队获奖其他老师审查后修改后上传并发布二、 综合减灾研究室1. 研究室介绍研究室介绍
 2. 团队介绍负责人田兵伟 副教授</description>
     </item>
     
