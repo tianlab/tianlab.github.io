@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>【软件】git</title>
+      <link>/2020/10/08/git/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/10/08/git/</guid>
+      <description>git基本使用git 起步git云端注册流程git本地基本设置本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot;git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;git本地已有项目仓库上传至云端在云端创建一个项目，例如：git@github.com:bwtian/xrlab.git打开并修改.gitignore，确定上传到云端以及同步文件的范围，去除无须同步的文件git add .添加项目中文件git commit -m “first commit” 注释git branch -M main 创建为主分支git remote add origin git@github.com:bwtian/xrlab.git 联通本地与云端git push -u origin main 推送本地到云端echo &amp;quot;# xrlab&amp;quot; &amp;gt;&amp;gt; README.mdgit initgit add README.mdgit commit -m &amp;quot;first commit&amp;quot;git branch -M maingit remote add origin git@github.</description>
+    </item>
+    
+    <item>
       <title>【通知】近期学术报告通知</title>
       <link>/2020/10/07/notice/</link>
       <pubDate>Wed, 07 Oct 2020 07:59:08 +0000</pubDate>

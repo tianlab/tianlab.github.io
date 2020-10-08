@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.74.2" />
+
+
+<title>【软件】git - XRLAB 综合减灾研究室</title>
+<meta property="og:title" content="【软件】git - XRLAB 综合减灾研究室">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="http://idmr.scu.edu.cn">IDMR</a></li>
+    
+    <li><a href="http://scu.edu.cn">SCU</a></li>
+    
+    <li><a href="/about/">关于本站</a></li>
+    
+    <li><a href="/links/">常用链接</a></li>
+    
+    <li><a href="/tian/">田老师</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">【软件】git</h1>
+
+    
+    <span class="article-date">2020-10-08</span>
+    
+
+    <div class="article-content">
+      
+
+
+<div id="git基本使用" class="section level1">
+<h1>git基本使用</h1>
+<div id="git-起步" class="section level2">
+<h2>git 起步</h2>
+<div id="git云端注册流程" class="section level3">
+<h3>git云端注册流程</h3>
+</div>
+<div id="git本地基本设置" class="section level3">
+<h3>git本地基本设置</h3>
+<p>本机打开git bash 输入以下命令</p>
+<pre class="bash"><code>git config --global user.name YOURNAME  # &quot;你的名字或昵称&quot;
+git config --global user.email EMAIL    # &quot;你的邮箱&quot;</code></pre>
+</div>
+<div id="git本地已有项目仓库上传至云端" class="section level3">
+<h3>git本地已有项目仓库上传至云端</h3>
+<ul>
+<li>在云端创建一个项目，例如：<a href="mailto:git@github.com" class="email">git@github.com</a>:bwtian/xrlab.git</li>
+<li>打开并修改<em>.gitignore</em>，确定上传到云端以及同步文件的范围，去除无须同步的文件</li>
+<li><em><code>git add .</code></em>添加项目中文件</li>
+<li><em><code>git commit -m “first commit”</code></em> 注释</li>
+<li><em><code>git branch -M main</code></em> 创建为主分支</li>
+<li><em><code>git remote add origin git@github.com:bwtian/xrlab.git</code></em> 联通本地与云端</li>
+<li><em><code>git push -u origin main</code></em> 推送本地到云端</li>
+</ul>
+<pre class="bash"><code>echo &quot;# xrlab&quot; &gt;&gt; README.md
+git init
+git add README.md
+git commit -m &quot;first commit&quot;
+git branch -M main
+git remote add origin git@github.com:bwtian/xrlab.git
+git push -u origin main</code></pre>
+</div>
+<div id="将本地文件夹上传到github" class="section level3">
+<h3>将本地文件夹上传到github</h3>
+<pre class="bash"><code>cd ./folder/
+mkdir YourProjName
+cd YourProjName
+git init  # 创建.git 文件夹
+
+git remote add origin https://github.com/YourGithubName/YourProjName.git
+</code></pre>
+<ul>
+<li>origin：指远程<em>remote</em>云端仓库,查询信息使用<em><code>git remote -v</code></em> 命令</li>
+</ul>
+</div>
+</div>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+          <li>
+          
+          <a href="https://www.xrlab.org/" target="_blank"><img
+              src="https://www.webfreecounter.com/hit.php?id=gvacqpo&nd=9&style=1" border="0" alt="综合减灾"></a>
+          
+          </li>
+        </ul>
+
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+
