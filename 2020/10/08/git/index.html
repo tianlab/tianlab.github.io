@@ -79,6 +79,9 @@
       
 
 
+<ul>
+<li><em>最近更新于2020-10-08 12:51:15</em></li>
+</ul>
 <div id="git基本使用" class="section level1">
 <h1>git基本使用</h1>
 <div id="git-起步" class="section level2">
@@ -95,34 +98,41 @@ git config --global user.email EMAIL    # &quot;你的邮箱&quot;</code></pre>
 <div id="git本地已有项目仓库上传至云端" class="section level3">
 <h3>git本地已有项目仓库上传至云端</h3>
 <ul>
-<li>在云端创建一个项目，例如：<a href="mailto:git@github.com" class="email">git@github.com</a>:bwtian/xrlab.git</li>
-<li>打开并修改<em>.gitignore</em>，确定上传到云端以及同步文件的范围，去除无须同步的文件</li>
-<li><em><code>git add .</code></em>添加项目中文件</li>
-<li><em><code>git commit -m “first commit”</code></em> 注释</li>
-<li><em><code>git branch -M main</code></em> 创建为主分支</li>
-<li><em><code>git remote add origin git@github.com:bwtian/xrlab.git</code></em> 联通本地与云端</li>
-<li><em><code>git push -u origin main</code></em> 推送本地到云端</li>
+<li>首先在云端创建一个项目，例如xrlab：<a href="mailto:git@github.com" class="email">git@github.com</a>:bwtian/xrlab.git</li>
 </ul>
-<pre class="bash"><code>echo &quot;# xrlab&quot; &gt;&gt; README.md
-git init
-git add README.md
-git commit -m &quot;first commit&quot;
-git branch -M main
-git remote add origin git@github.com:bwtian/xrlab.git
-git push -u origin main</code></pre>
-</div>
-<div id="将本地文件夹上传到github" class="section level3">
-<h3>将本地文件夹上传到github</h3>
-<pre class="bash"><code>cd ./folder/
-mkdir YourProjName
-cd YourProjName
-git init  # 创建.git 文件夹
-
-git remote add origin https://github.com/YourGithubName/YourProjName.git
-</code></pre>
+<pre class="bash"><code>echo &quot;# xrlab&quot; &gt;&gt; README.md # 创建README.md文件
+git init  # 创建.git 文件夹，记录版本控制
+git add README.md # 添加项目中README.md文件
+git add .  # 添加项目中文件
+git commit -m &quot;first commit&quot; #注释项目变动
+git branch -M main #创建为主分支
+git remote add origin git@github.com:bwtian/xrlab.git #联通本地与云端
+git push -u origin main # 推送本地到云端
+git pull  # 拉取云端到本地</code></pre>
 <ul>
+<li>注意：上传云端前修改<em>.gitignore</em>，去除无须同步的文件</li>
 <li>origin：指远程<em>remote</em>云端仓库,查询信息使用<em><code>git remote -v</code></em> 命令</li>
 </ul>
+</div>
+<div id="自动git" class="section level3">
+<h3>自动git</h3>
+<p>将相关同步命令写入一个<em>shell</em>文件“gitXXX.sh”，每次点击即可自动完成全过程</p>
+<pre class="bash"><code>#!/bin/sh
+# 这是gitUpdate.sh文件
+# bash的提示信息
+echo -e &quot;\033[0;32mDeploying updates to GitHub...\033[0m&quot;
+# git添加变化到本地仓库
+git pull
+git add .
+# git 阐述项目变化
+msg=&quot;update `date`&quot;
+if [ $# -eq 1 ]
+  then msg=&quot;$1&quot;
+fi
+git commit -m &quot;$msg&quot;
+# git推送本地到云端
+# git push origin master
+git push</code></pre>
 </div>
 </div>
 </div>
@@ -169,6 +179,9 @@ git remote add origin https://github.com/YourGithubName/YourProjName.git
 
 
     
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 
     
   </body>

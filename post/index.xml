@@ -21,13 +21,23 @@
     </item>
     
     <item>
+      <title>【社团】通知:10月安排和计划</title>
+      <link>/2020/10/08/202010/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/10/08/202010/</guid>
+      <description>先阅读关于本站相关内容。
+10月要完成的主要工作将社团建立以来个自建设网站、公众号等处相关信息迁移到本网站，每个社团一个页面用markdown格式编写呈现方式各自创新组织策划好10月13日国际减灾日相关工作做好招新及干事以上的公示工作，在本网站进行，尽快收集名单积极组织大创等创新创业和科学研究活动其他社团组织策划的特色活动每月填写社团活动总结计划收集表表1-社团总结计划收集表随时填写每次社团活动信息收集表表2-社团活动信息收集表</description>
+    </item>
+    
+    <item>
       <title>【软件】git</title>
       <link>/2020/10/08/git/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/10/08/git/</guid>
-      <description>git基本使用git 起步git云端注册流程git本地基本设置本机打开git bash 输入以下命令
-git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot;git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;git本地已有项目仓库上传至云端在云端创建一个项目，例如：git@github.com:bwtian/xrlab.git打开并修改.gitignore，确定上传到云端以及同步文件的范围，去除无须同步的文件git add .添加项目中文件git commit -m “first commit” 注释git branch -M main 创建为主分支git remote add origin git@github.com:bwtian/xrlab.git 联通本地与云端git push -u origin main 推送本地到云端echo &amp;quot;# xrlab&amp;quot; &amp;gt;&amp;gt; README.mdgit initgit add README.mdgit commit -m &amp;quot;first commit&amp;quot;git branch -M maingit remote add origin git@github.</description>
+      <description>最近更新于2020-10-08 12:51:15git基本使用git 起步git云端注册流程git本地基本设置本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot;git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;git本地已有项目仓库上传至云端首先在云端创建一个项目，例如xrlab：git@github.com:bwtian/xrlab.gitecho &amp;quot;# xrlab&amp;quot; &amp;gt;&amp;gt; README.md # 创建README.md文件git init # 创建.git 文件夹，记录版本控制git add README.md # 添加项目中README.md文件git add . # 添加项目中文件git commit -m &amp;quot;first commit&amp;quot; #注释项目变动git branch -M main #创建为主分支git remote add origin git@github.</description>
     </item>
     
     <item>
@@ -131,6 +141,18 @@ OSM DailyCygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
       
       <guid>/2020/09/01/zhengfanfan/</guid>
       <description>个人介绍在学期间：2020.9 ~ 2023.6# 研究方向参与项目发表论文荣誉获奖硕士论文毕业去向</description>
+    </item>
+    
+    <item>
+      <title>【论文】尼泊尔的应急管理简介</title>
+      <link>/2020/08/26/paper20200826/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/08/26/paper20200826/</guid>
+      <description>下载地址CNKI
+引用本论文中文引用：田兵伟,Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020).尼泊尔的应急管理简介.中国应急管理(08),ISSN：1673-8624, 72-75.
+Citation：Bingwei Tian, Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020). Introduction of Emergency management in Nepal. China Emergeny Management(08), ISSN：1673-8624,72-75.
+Bib项目支持内容简介</description>
     </item>
     
     <item>
