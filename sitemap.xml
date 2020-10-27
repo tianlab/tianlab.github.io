@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tian/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +74,6 @@
   
   <url>
     <loc>/2020/10/04/3s-data-link/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tian/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
