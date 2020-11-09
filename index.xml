@@ -26,11 +26,13 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/11/05/3s06/</guid>
-      <description>研究设计目标滑坡范围-尼泊尔
-尺度时间:1970-2020空间:100 m数据量数据GISOpenstreetHumdata方法基线确定坐标系统地球坐标系： WGS84：6378137,298.257223563EPSG:4326特征：单位是°，三维坐标系。
+      <description>研究设计研究目标滑坡研究范围-尼泊尔
+研究尺度时间:1970-2020空间:100 m数据量数据GISOpenstreetHumdata方法基线确定坐标系统地球坐标系： WGS84：6378137,298.257223563
+EPSG:4326特征：单位是°，三维坐标系。
 投影坐标系：特征： 单位是m, 平面坐标系。
 Nepal_CRS：+proj=tmerc +lat_0=0 +lon_0=84 +k=0.9996 +x_0=500000 +y_0=0 +datum=WGS84 +units=m +no_defs
-UTM：+ UTM44N +proj=utm +zone=44 +datum=WGS84 +units=m +no_defs+ UTM45N +proj=utm +zone=45 +datum=WGS84 +units=m +no_defs</description>
+UTM：
+UTM44N +proj=utm +zone=44 +datum=WGS84 +units=m +no_defsUTM45N +proj=utm +zone=45 +datum=WGS84 +units=m +no_defs确定网格起点：- 度分秒 E80°，- 边界</description>
     </item>
     
     <item>
