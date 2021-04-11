@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on XRLAB</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【团队】媒体聚焦</title>
+      <link>/post/2021/04/11/media/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/media/</guid>
+      <description>  大创团队  【36氪】这届年轻人可真「敢」(2020-09-20)
+ 【搜狐】四川大学大三学生，开发VR应用模拟自然灾害场景(2020-09-10)
+ 【中国日报网】华为校园开发者赵一燃：让VR应用助力山地灾害教育 (2020-04-26)
+   学生社团 空间信息技术学会  应急救援学会  【四川大学】第二期川大应急救援能力建设实训小课堂开启社团定制培训项目(2017-06-08)
+ 【四川大学】第一期川大应急救援能力建设实训小课堂开讲(2017-05-23)
+   国际减灾与应急管理学会  服务学习研究会（已合并入国际减灾与应急管理学会）  【四川大学】“课程+学术社团”新模式助推川大服务学习走向国际大舞台(2016-12-13)    研究生  教师团队  【四川新闻网】应急舆论引导课程建设研讨会在四川警察学院召开 (2020-09-18)
+ 【川报观察】四川大学灾后重建与管理学院副教授田兵伟：让更多人掌握自我保护技能 (2020-09-16)
+ 【四川大学】机关优秀教育工作者先进事迹——灾后重建与管理学院田兵伟(2018-09-30)
+    </description>
+    </item>
+    
+    <item>
+      <title>【数据】3S数据源链接</title>
+      <link>/post/2021/04/11/3s-data-link/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/3s-data-link/</guid>
+      <description>  综合 freegisdata 一个很不错的综合GIS数据源
+Gramin Daily
+OSM Daily Cygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.shp.zip
+ 亚洲 中国 阿里地图选择器 防灾减灾知识服务
+ 日本  尼泊尔   美洲 美国 USGS
+  RS  GNSS  </description>
+    </item>
+    
+    <item>
+      <title>【论文】文献导读</title>
+      <link>/post/2021/04/11/literature/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/literature/</guid>
+      <description>  本周推荐  周报选读  经典导读  </description>
+    </item>
+    
+    <item>
+      <title>【软件】git</title>
+      <link>/post/2021/04/11/git/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/git/</guid>
+      <description>最近更新于2021-04-11 15:37:57  git基本使用 git 起步 git云端注册流程  git本地基本设置 本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;  git本地已有项目仓库上传至云端  首先在云端创建一个项目，例如xrlab：git@github.com:bwtian/xrlab.git  echo &amp;quot;# xrlab&amp;quot; &amp;gt;&amp;gt; README.md # 创建README.md文件 git init # 创建.git 文件夹，记录版本控制 git add README.md # 添加项目中README.md文件 git add . # 添加项目中文件 git commit -m &amp;quot;first commit&amp;quot; #注释项目变动 git branch -M main #创建为主分支 git remote add origin git@github.</description>
+    </item>
+    
+    <item>
+      <title>【软件】markdown入门及学术写作</title>
+      <link>/post/2021/04/11/markdown/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/markdown/</guid>
+      <description>第一部分 Markdown 本书目标  一本介绍git的markdown书 一本介绍防灾减灾的markdown书 一本供XRLAB实验室使用的markdown参考书    前言 互联网大数据时代，大家都开始将笔记记录在云端，你是否在记录笔记的时候还在选中 =》调整格式 =》调整段落；好吧，你OUT了，MarkDown是一种能快速规范格式的语法，只要几个小小的标识符即可飞快的完成格式化笔记，而且支持各类浏览器直接阅读。 在每个CODE项目中，都会标配一个文件叫readme.md的文件，来说明程序是干什么的。
+ 第一章 什么是markdown (WHAT) 本章主要让大家了解 Markdown 是什么。 Markdown 是目前互联网上最流行的写作语言，它使用一些简单的符号（* / ` &amp;gt; [] () #）来标记文本格式，其简洁的语法、优美的格式以及强大的软件支持深受广大网友的喜爱。 ## 定义 &amp;gt; 维基百科上对 Markdown 的描述： ” Markdown 是一种轻量级标记语言，创始人是约翰·格鲁伯（John Gruber）（博客）。它允许人们 “使用易读易写的纯文本格式编写文档，然后转换成有效的 HTML 文档。”
+学习曲线 大家千万不要被一些专业术语唬住了，其实 Markdown 之所以流行，最主要的原因就是因为它的学习门槛很低，你可能只需花几分钟就可以入门了。学习曲线非常平缓，学习起来极其友好。
+ 发展历史  目前现状  网页方面 文档方面     第二章 为什么学用Markdown (WHY)  为什么要用 Markdown？ 回想一下我们在写作的时候会遇到什么样的问题？
+  软件不会用：Word 应该是大家写作时最常用的软件，每当打开一个 Word 文档，速度慢先不说，光是复杂繁多的功能就已经足够让你眼花缭乱了，如果你不是专业的编辑，相信绝大部分功能你是用不到的。消除浪费，应该是现代互联网时代大家最先要学会的事情。</description>
+    </item>
+    
+    <item>
+      <title>R basic</title>
+      <link>/post/2021/04/06/r-basic/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/06/r-basic/</guid>
+      <description>  安装卸载  Rtools  Rporfile  </description>
+    </item>
+    
+    <item>
+      <title>【报奖】2020第19次四川省社会科学优秀成果评奖</title>
+      <link>/post/2020/11/11/scss/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/11/11/scss/</guid>
+      <description>  # 资格  渠道  高校 学会   系统 报奖系统
+ 通知 四川大学社科处
+ </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/post/2020/11/09/test/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/11/09/test/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>【课程】3S06-Research Design 研究设计</title>
+      <link>/post/2020/11/05/3s06/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/11/05/3s06/</guid>
+      <description>研究设计 研究目标  滑坡   研究范围 -尼泊尔
+ 研究尺度  时间:1970-2020 空间:100 m 数据量    数据 GIS  Openstreet Humdata     方法 基线 确定坐标系统  地球坐标系： WGS84：6378137,298.257223563
+ EPSG:4326   特征：单位是°，三维坐标系。
+ 投影坐标系：  特征： 单位是m, 平面坐标系。
+ Nepal_CRS：+proj=tmerc +lat_0=0 +lon_0=84 +k=0.9996 +x_0=500000 +y_0=0 +datum=WGS84 +units=m +no_defs
+ UTM：
+ UTM44N +proj=utm +zone=44 +datum=WGS84 +units=m +no_defs UTM45N +proj=utm +zone=45 +datum=WGS84 +units=m +no_defs    确定网格  起点： - 度分秒 E80°， - 边界</description>
+    </item>
+    
+    <item>
+      <title>【iDRREM】International DRR and Emergency Management Innovation Class</title>
+      <link>/post/2020/10/29/innovationclass/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/29/innovationclass/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>【讲座】Webinar by Professor Nizar Abu Jaber on &#34;Flood Control and Water Management in Nabatean Petra&#34; 19th October 2020.</title>
+      <link>/post/2020/10/19/flood1/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/19/flood1/</guid>
+      <description>Time： 2020-10-19 15:00-16:30  OBJECTIVES Outline: Water has been closely associated with human being since ancient civilization periods. It has interacted with the people in critical fields for their existence such as health, food, energy, disasters, and environment. It underpinned social and economic development of regions and enhanced welfare and happiness of the inhabitants if managed properly. Water has affected, in many ways, formulation of the culture and society.</description>
+    </item>
+    
+    <item>
+      <title>【汇总】国际减灾与应急管理创新班</title>
+      <link>/post/2020/10/17/idrrem/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/17/idrrem/</guid>
+      <description>2020年10月17日： 2019级国际减灾与应急管理创新班开班仪式成功举行</description>
+    </item>
+    
+    <item>
+      <title>【比赛】10.13国际减灾日海报展板大赛</title>
+      <link>/post/2020/10/09/idrrpost/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/09/idrrpost/</guid>
+      <description>   活动名称：国际减灾日活动之常见自然灾害监测预警科普海报
+ 展板内容：山洪、泥石流、洪水、滑坡、暴雨、高温、雪灾等自然灾害的风险防范、监测预警、可能带来的危害、正确自救互救技能等科普知识。海报注明策划人、团队、学院、社团等信息。
+ 注意：此次为科普海报，重点是突出国际减灾日主题和灾害防御知识，优秀作品将被展出并有相应奖品。
+ 海报尺寸：755*1120mm
+ 提交时间：2020年10月11日
+ 提交邮箱：cakeycaoli@126.com，投稿请注明作者和单位
+ 提交格式：PDF及相应的PS、AI等矢量设计文件,打印分辨率DPI600以上
+ 主办单位
+ 四川大学 安全应急技能训练中心 四川大学 灾后重建与管理学院  协办单位
+ 四川大学 国际减灾与应急管理创新班 四川大学 国际减灾与应急管理学会 四川大学 应急救援学会 四川大学 空间信息技术学会  海报示例
+ 中国灾害防御学会  参考信息
+ 国家减灾委员会办公室 关于做好2020年国际减灾日有关工作的通知 国减办发〔2020〕29号   </description>
+    </item>
+    
+    <item>
+      <title>【社团】通知:10月安排和计划</title>
+      <link>/post/2020/10/08/notice202010/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/08/notice202010/</guid>
+      <description>  先阅读关于本站相关内容。
+10月要完成的主要工作 将社团建立以来个自建设网站、公众号等处相关信息迁移到本网站，每个社团一个页面  用markdown格式编写 呈现方式各自创新  组织策划好10月13日国际减灾日相关工作 做好招新及干事以上的公示工作，在本网站进行，尽快收集名单 积极组织大创等创新创业和科学研究活动 其他社团组织策划和重点培育的特色活动   每月填写社团活动总结计划收集表  表1-社团总结计划收集表   随时填写每次社团活动信息收集表  表2-社团活动信息收集表   11月要完成的主要工作 组织策划好11月9日消防日相关工作   </description>
+    </item>
+    
+    <item>
+      <title>【论坛】10-08 19:00 Building African Youth Capacity in DRR.</title>
+      <link>/post/2020/10/08/drr1/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/08/drr1/</guid>
+      <description>Time： 2020-10-8 19:00-21:00  OBJECTIVES As the International Day for Disaster Risk Reduction draws closer, AYAB DRR is teaming up with experts and stakeholders in the field to discuss opportunities and challenges for building capacity among African Youth in the Disaster Risk Reduction.
+ OUTLINE African Youth Advisory Board on Disaster Risk Reduction (AYAB DRR) will be hosting a short webinar exploring the topic of Building capacity among African Youth particularly in the field of Disaster Risk Reduction.</description>
+    </item>
+    
+    <item>
+      <title>【论文】常读期刊 Academic Journals</title>
+      <link>/post/2020/10/07/journals/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/07/journals/</guid>
+      <description>  四川大学图书馆　　Research Gate　
+Nature Index A+ Cell　 Nature　 Science　
+ A  NatureIndex Nature Geoscience Nature CliamteChange    Top in Related Filed  中文核心  灾害学   综合期刊  中国应急管理 中央级综合性应急管理刊物   </description>
+    </item>
+    
+    <item>
+      <title>【团队】实验室文化建设的重要性参考</title>
+      <link>/post/2020/10/06/culture/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/10/06/culture/</guid>
+      <description>   王德华:文化建设是研究团队健康发展的灵魂
+ 中国科学院 王德华研究员博客
+  </description>
+    </item>
+    
+    <item>
+      <title>【SIT】2020空间信息技术学会任职公示</title>
+      <link>/post/2020/09/01/2020sit-leaders/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/01/2020sit-leaders/</guid>
+      <description>  会长  干事  主要活动计划  </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：郑帆帆</title>
+      <link>/post/2020/09/01/zhengfanfan/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/09/01/zhengfanfan/</guid>
+      <description>  个人介绍  在学期间：2020.9 ~ 2023.6  # 研究方向   参与项目  发表论文  荣誉获奖  硕士论文  毕业去向  </description>
+    </item>
+    
+    <item>
+      <title>【论文】尼泊尔的应急管理简介</title>
+      <link>/post/2020/08/26/paper20200826/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/08/26/paper20200826/</guid>
+      <description>  下载地址 CNKI
+ 引用本论文  中文引用：田兵伟,Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020).尼泊尔的应急管理简介.中国应急管理(08),ISSN：1673-8624, 72-75.
+ Citation：Bingwei Tian, Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020). Introduction of Emergency management in Nepal. China Emergeny Management(08), ISSN：1673-8624,72-75.
+   Bib  项目支持  内容简介  </description>
+    </item>
+    
+    <item>
+      <title>【大创】19-20指导大学生创新创业训练项目</title>
+      <link>/post/2020/08/23/uinovation20/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/08/23/uinovation20/</guid>
+      <description>   项目时间：2019.12 - 2020.10 立项通知： 项目链接：  国家级  赵一燃,付铄雯,马颖,雷苏苏,曾军淞. 2020. C2020112063. VR山地灾害教育——以彝族自治州属喜德县为例. 创新训练. 国家级项目. 灾后重建与管理学院. T2020112084.   校级  张文杰, 伍浈俪,王雪晴,李思雨. 2020. C2020109522. 高高原岗巴羊经济的气候变化适应性研究. 创新训练. 校级项目. 灾后重建与管理学院. T2020109542.
+ 胡佳,晋京,彭连,孟中原,刘湘源. 2020. C2020108894. safe安全旅游-航空应急救援为你的安全保驾护航. 创新训练. 校级项目. 灾后重建与管理学院. T2020108914.
+ 李奉珉, 杨清坤,代雨洁,陈彬林,谢斐然. 2020. C2020110693. 一带一路中尼参与式风险制图. 创新训练. 校级项目. 灾后重建与管理学院. T2020110714.
+   </description>
+    </item>
+    
+    <item>
+      <title>【软件】常用在线文档工具</title>
+      <link>/post/2020/08/22/onlinetools/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/08/22/onlinetools/</guid>
+      <description>  文档 ProcessON 石墨文档 腾讯文档 语雀知识
+ 云盘 百度云 微云
+ 群组 微云共享组 MendeleyG
+ </description>
+    </item>
+    
+    <item>
+      <title>【软件】omap 奥维地图</title>
+      <link>/post/2020/08/06/omap/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/08/06/omap/</guid>
+      <description>  功能  标签 轨迹 图形   优势  平台多人协作   </description>
+    </item>
+    
+    <item>
+      <title>【数据】2020洪灾数据汇总</title>
+      <link>/post/2020/07/24/2020%E6%B4%AA%E7%81%BE%E6%95%B0%E6%8D%AE%E6%B1%87%E6%80%BB/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/24/2020%E6%B4%AA%E7%81%BE%E6%95%B0%E6%8D%AE%E6%B1%87%E6%80%BB/</guid>
+      <description>  感谢提供信息源，以便更新。
+国内数据 2020年夏季中国洪涝灾害专题服务: 为应对我国夏季各地洪水灾害，为减灾机构、科研单位提供相关研究数据和监测数据，国家对地观测科学数据中心推出了“2020年夏季中国洪涝灾害数据专题服务”网站。网站于2020年7月23日正式上线，初期可提供38个基础地理数据集和灾前、灾后的卫星遥感数据集，支持在线查询下载和离线下载服务，欢迎大家登陆体验。网址：http://www.chinageoss.cn/cddr   </description>
+    </item>
+    
+    <item>
+      <title>【三进】2020暑假研究项目</title>
+      <link>/post/2020/07/12/2020summerresearch/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/07/12/2020summerresearch/</guid>
+      <description>  暑期集中开展项目如下,欢迎学生们开展三进科研，即进实验室、进课题组、进科研团队，开展研究，学习研究技能，锻炼科研能力。
+航空应急救援预案 应急管理概论 社区强韧化服务研究 山地灾害风险教育研究 社区风险地图  </description>
+    </item>
+    
+    <item>
+      <title>【社团】四川大学国际减灾与应急管理学会</title>
+      <link>/post/2019/10/13/idrrem/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/10/13/idrrem/</guid>
+      <description>  社团活动 2020  2019  社团荣誉   社团简介  社团组织 会长及副会长  2020： 2019：苟晓芸；   干事   </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：苟晓芸</title>
+      <link>/post/2019/09/01/gouxiaoyun/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/09/01/gouxiaoyun/</guid>
+      <description>  个人介绍  在学期间：2019.9 ~ 2022.6   硕士论文  毕业去向  </description>
+    </item>
+    
+    <item>
+      <title>【项目】美丽中国：山地灾害教育培训与VR情景模拟</title>
+      <link>/post/2019/01/01/beautifulchina/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/01/01/beautifulchina/</guid>
+      <description>项目基本信息 美丽中国生态文明建设科技工程（9-5-2） 项目隶属关系  项目九编号： XDA23090000 项目九名称： 气候变化条件下山地致灾风险绿色调控关键技术与示范 课题五编号： XDA23090500 课题五名称： 山地致灾风险综合管理与可持续发展协同模式 子课题二编号：XDA23090502
+ 子课题二名称：山区居民灾害应激反应与社区风险管理关键技术 任务四编号：XDA23090502-4 任务四名称：山地灾害教育培训与VR情景模拟（XDA23090502-4）   项目时间  2019年1月1日 - 2023年12月31日   研究内容 聚焦泥石流、滑坡和山洪等山地灾害，研发教育培训课程、技术和落地实施方案。
+ 研究成果标注  “中国科学院战略性先导科技专项（A类）”和项目编号（XDA23090502），成果统计仅限第一标注。 （Supported by the Strategic Priority Research Program of the Chinese Academy of Science, Grant No. XDA23090502）    项目进度管理 项目进度管理PCT(仅限项目组内部访问)
+ 项目主要成果 发表论文  出版专著  获批专利  获批软著  研发标准  上线平台  孵化双创  人才培养  国际交流  社会影响   团队主要成员 以下仅列出参与项目一年以上的团队成员</description>
+    </item>
+    
+    <item>
+      <title>【设备】大疆Mavic 2 Pro 无人机专业版</title>
+      <link>/post/2018/09/25/mavic-2-pro/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/25/mavic-2-pro/</guid>
+      <description>  前言  XRLAB第三代无人机
+ 课程使用
+ 本科生课程：《无人飞行器在防灾减灾中的应用》2019.3 ~ 研究生课程：《3S减灾技术及其使用》2020.2 ~ 社团双创用：“四川大学空间信息技术学会” 2018.10 ~  科研野外调研轨迹（补充中）
+ 2019.8 阿坝州茂县野外调研 2020.5 凉山州喜德县野外调研 2020.7 西藏野外调研 2020.8 川藏线野外调研  相关发表科研成果
+ 2021.1 “基于无人机影像的长宁地震建筑物震害提取与成因分析”  2018.09.25购自京东大疆立刻飞专卖店,已购入929天（2021-04-11更新）
+ 本机及外围设备累计已投入：1.7227^{4}（2021-04-11更新）
+ 本文档亦是Rmarkdown教学材料
+   大疆Mavic 2 Pro 基本信息 御2哈苏版 # 学习资料
+学习链接 [大疆官网] [学习视频] [下载中心]
+更多详见XR设备QQ群
+  基本操作  拍摄  图像拼接 Agisoft Photoscan  pix4D  Global Mapper  EasyUAV   </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：顾诗瑶</title>
+      <link>/post/2018/09/01/gouxiaoyun/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/01/gouxiaoyun/</guid>
+      <description>  个人介绍  在学期间：2018.9 ~ 2021.6   硕士论文  毕业去向  </description>
+    </item>
+    
+    <item>
+      <title>【团队】访问学者：王桂莲</title>
+      <link>/post/2018/01/01/wangguilian/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/01/01/wangguilian/</guid>
+      <description>  访问时间  2018.1.1 - 2018.12.31   参与项目  成都市慈善总会茂县灾区灾后重建服务项目   主要成果  《茂县灾后重建项目100问》   工作单位  高校   </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：陈飞宇</title>
+      <link>/post/2017/09/01/chenfeiyu/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/09/01/chenfeiyu/</guid>
+      <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生    </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：黄斌</title>
+      <link>/post/2017/09/01/huangbin/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017/09/01/huangbin/</guid>
+      <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生   </description>
+    </item>
+    
+    <item>
+      <title>【社团】四川大学应急救援学会简介</title>
+      <link>/post/2016/11/09/scuera/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/11/09/scuera/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>【地图】从0到1的DREAM减灾生态艺术地图</title>
+      <link>/post/2016/09/29/dream/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2016/09/29/dream/</guid>
+      <description>  快速了解DREAM  视频：哔哩哔哩 网站：www.tdream.org 网站：www.safetyzone.vip   什么是DREAM DREAM(Disaster Reduction Ecological Artistic Map)，中文名称“减灾生态艺术地图”又叫“减灾绿地图” 或“减灾梦之图”。
+DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社区和中国梦等新理念驱导下，灾害边缘学科的交叉创新；是基础地理环境、灾害风险环境、自然生态环境、人文历史环境和本地艺术表现五个图层在地图上的综合性体现和艺术化展示；是充分吸收防灾减灾地图和绿色生活地图的优点基础上，采用以学生为中心的服务学习方式科学编制和艺术打造的专题地图；是当今世界减灾地图和安全地图相关领域前沿的创新产品。基础图层主要基于卫星雷达、遥感、无人机等技术对景区进行精准测绘采集数据；减灾图层基于GIS、遥感技术进行风险分析，展示灾害风险与防范要点；生态图层和人文图层利用GPS和北斗等定位技术，展现生态文明和历史人文环境。 “DREAM”将枯燥的防灾减灾知识以科学技术+艺术相融合的创新手法科学地融入地图中，是科学与艺术的完美结合。
+ </description>
+    </item>
+    
+    <item>
+      <title>【社团】四川大学空间信息技术协会简介</title>
+      <link>/post/2015/10/13/scusit/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/10/13/scusit/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>【团队】硕士生：王诗炎</title>
+      <link>/post/2015/09/01/wangshiyan/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/09/01/wangshiyan/</guid>
+      <description>  个人介绍  在学期间：2015.9 ~ 2018.6   发表论文  硕士论文  毕业去向  事业单位   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/2015/07/15/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/07/15/</guid>
+      <description>更新于 2021-04-11 15:15:48  目录  一、关于本站 二、关于XRLAB 三、联系我们 四、地理位置   一、关于本站 本站是XRLAB团队综合信息分享交流网站。秉持学术导向，内容为王；知识丰富，形式从简和综合研究文化建设的办站理念。内容主要由研究生、创新班、社团学生、项目组提供素材，作为日常任务共同维护，每周不定时更新，投稿邮箱：860080618@qq.com。
+注：所有指导社团的相关信息发布、公示、展示和活动均在此网站进行，不再单独建立网站和微信公众号等，主要精力向学术研究靠近。 如果你有好的建议和意见：请填写XRLAB网站意见收集及反馈表
+技术框架 技术建站同时，灵活多样的使用其他各种提升效率的技术如：云盘、共享文档等；各类专业托管网站如：Researchgate，Mendeley等。
+主要技术  Github:托管网站 Git：推送更新 Markdown：基本的内容编写语言 Hugo: 网站模板 Netlify：自动发布和备用域名  R相关技术  R：全面支持R+markdown的高级内容编写 Rstudio：方便编写内容的编辑器 Rmarkdown：结合R和markdown的强大动力 blogdown：主要的网站维护开发报，遇到问题先运行，这两行代码。  blogdown:::build_site() blogdown:::serve_site()     域名管理  主用域名（解析）：www.xrlab.org 备用域名（自动）：xrlab.netlify.app 托管域名（同步）：tianlab.github.io   更新管理  第1步：研究生、创新班成员、社团、项目组下载或自建网站模板 第2步：根据模板用Markdown、Rmarkdown或HTML格式撰写内容 第3步：内容【标签】主要包括  周报：一周的进展简短交流汇报,通过共享文档随时写成，周末更新至网站 月报：月报为学术导向，主要介绍最新论文和领域的发展 获奖：科技获奖、学生竞赛获奖等 专著：出版完成的专著的介绍 论文：发表的论文信的介绍 专利：授权的专利的介绍 软著：获批软著的介绍 演示：制作的PPT等相关演示 软件：常用软件的讲解 硬件：常用硬件的讲解 科普：社团的科普知识 项目：项目信息和管理介绍 讲座：讲座信息更新到当日 通知：各类通知信息等 活动：学生的组织的活动等 团队：研究团伙、合作伙伴等 社团：各社团活动用单独子标签【SIT】【ERA】【iDRREM】 例会：XRLAB的周会、月会和年会等 其他  老师审查后修改后上传并发布 定期发布内容和更新     二、 综合减灾研究室 1.</description>
+    </item>
+    
+    <item>
+      <title>【初心】为什么叫XRLAB？</title>
+      <link>/post/2015/07/15/xrlab/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/07/15/xrlab/</guid>
+      <description>  XRLAB中的X代表未知和创新，XR主要指X个R打头的研兴趣和方向，分别指研究，即研究以Resilience为中心的综合减灾；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以R为中心的灾害大数据技术。LAB是Labratory的缩略，指研究室，固XRLAB简称综合减灾研究室。
+研究以Resilience为核心的综合减灾  Risk Assessment &amp;amp; Avoidance/Prevention 防灾：事前防灾免灾避灾 Risk Reduction/Disaster Mitigation/ 减灾：事前减灾发展 Readiness/Preparation/Risk transfer 备灾：事前备灾应急准备 Response/Rescue/Relief 救灾：事中应变应急响应救援救急 Recovery/Re-opening 事后恢复善后 Reconstruction 灾后重建规划 Rehablitation 灾后康复 Return/Risk retention 恢复到原状 Risk Communication 风险沟通 Resilience 韧性：一心强韧，综合减灾   研究以RS为核心的3S减灾技术  RS 遥感 GIS 地理信息系统  讲授硕士课程《3S减灾技术及其应用》  GNSS 导航定位系统 UAV 无人机技术  讲授本科课程《无人飞行器在防灾减灾中的应用》  Map 参与式制图方法  DREAM地图, 主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016    研究以VR为核心的虚拟仿真技术  VR 虚拟现实 AR 扩展现实 MR 混合现实 BIM 建筑信息模型 Digital twin 数字孪生   研究以R为核心的灾害大数据技术  R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》 R Visualization 可视化 R GeoHealth 健康地理大数据   </description>
+    </item>
+    
+    <item>
+      <title>【团队】田老师IDMR网站简介更新</title>
+      <link>/post/2015/07/15/idmrtian/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015/07/15/idmrtian/</guid>
+      <description>  田兵伟 学院官网信息 # 代表性研究成果 # 获奖情况 # 科研项目
+ 人才培养  </description>
+    </item>
+    
+  </channel>
+</rss>

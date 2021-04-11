@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title> - XRLAB</title>
+    <meta property="og:title" content=" - XRLAB">
+    
+    <meta name="twitter:card" content="summary">
+
+    
+      
+    
+
+    
+      
+      <meta property="description" content="本站是XRLAB团队综合信息分享交流网站。秉持学术导向，内容为王；知识丰富，形式从简和综合研究文化建设的办站理念。内容主要由研究生、创新班、社团学生、项目组提供素材，作为日常任务共同维护，每周不定时更新，投稿邮箱：860080618@qq.com。
+注：所有指导社团的相关信息发布、公示、展示和活动均在此网站进行，不再单独建立网站和微信公众号等，主要精力向学术研究靠近。 如果你有好的建议和意见：请填 &amp;hellip;">
+      <meta property="og:description" content="本站是XRLAB团队综合信息分享交流网站。秉持学术导向，内容为王；知识丰富，形式从简和综合研究文化建设的办站理念。内容主要由研究生、创新班、社团学生、项目组提供素材，作为日常任务共同维护，每周不定时更新，投稿邮箱：860080618@qq.com。
+注：所有指导社团的相关信息发布、公示、展示和活动均在此网站进行，不再单独建立网站和微信公众号等，主要精力向学术研究靠近。 如果你有好的建议和意见：请填 &amp;hellip;">
+      
+    
+
+    
+    
+
+    
+
+    
+    
+
+
+<link href='//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+
+  </head>
+
+  
+  <body class="post">
+    <header class="masthead">
+      <h1><a href="/">XRLAB</a></h1>
+
+<p class="tagline">A Laboratory Focus on Intergrated Disaster Risk Reduction using 3S and 3R Technology综合减灾研究室</p>
+
+      <nav class="menu">
+  <input id="menu-check" type="checkbox" hidden/>
+  <label id="menu-label" for="menu-check" class="unselectable" hidden>
+    <span class="icon close-icon">✕</span>
+    <span class="icon open-icon">☰</span>
+    <span class="text">Menu</span>
+  </label>
+  <ul>
+  
+  
+  <li><a href="/">Home</a></li>
+  
+  <li><a href="/about/">About</a></li>
+  
+  <li><a href="/categories/">Categories</a></li>
+  
+  <li><a href="/tags/">Tags</a></li>
+  
+  <li><a href="/index.xml">Subscribe</a></li>
+  
+  
+  </ul>
+</nav>
+
+    </header>
+
+    <article class="main">
+      <header class="title">
+      
+<h1></h1>
+
+<h3>
+  2015-07-15</h3>
+<hr>
+
+
+      </header>
+
+
+
+
+<script src="/post/2015/07/15/index_files/header-attrs/header-attrs.js"></script>
+<script src="/post/2015/07/15/index_files/htmlwidgets/htmlwidgets.js"></script>
+<script src="/post/2015/07/15/index_files/jquery/jquery.min.js"></script>
+<link href="/post/2015/07/15/index_files/leaflet/leaflet.css" rel="stylesheet" />
+<script src="/post/2015/07/15/index_files/leaflet/leaflet.js"></script>
+<link href="/post/2015/07/15/index_files/leafletfix/leafletfix.css" rel="stylesheet" />
+<script src="/post/2015/07/15/index_files/proj4/proj4.min.js"></script>
+<script src="/post/2015/07/15/index_files/Proj4Leaflet/proj4leaflet.js"></script>
+<link href="/post/2015/07/15/index_files/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+<script src="/post/2015/07/15/index_files/leaflet-binding/leaflet.js"></script>
+
+
+<ul>
+<li><em>更新于 2021-04-11 15:15:48</em></li>
+</ul>
+<div id="目录" class="section level1">
+<h1>目录</h1>
+<ul>
+<li><a href="#aboutSite">一、关于本站</a></li>
+<li><a href="#aboutLab">二、关于XRLAB</a></li>
+<li><a href="#contactUs">三、联系我们</a></li>
+<li><a href="#xrlabGeo">四、地理位置</a></li>
+</ul>
+</div>
+<div id="一关于本站" class="section level1">
+<h1>一、<span id="aboutSite">关于本站</span></h1>
+<p>本站是XRLAB团队综合信息分享交流网站。秉持<em>学术导向，内容为王；知识丰富，形式从简</em>和<strong>综合研究文化建设</strong>的办站理念。内容主要由研究生、创新班、社团学生、项目组提供素材，作为日常任务共同维护，每周不定时更新，投稿邮箱：<a href="mailto:860080618@qq.com" class="email">860080618@qq.com</a>。</p>
+<pre><code>注：所有指导社团的相关信息发布、公示、展示和活动均在此网站进行，不再单独建立网站和微信公众号等，主要精力向学术研究靠近。</code></pre>
+<p>如果你有好的建议和意见：请填写XRLAB网站<a href="https://docs.qq.com/doc/DT2VDVkZ3VkFCd3Fo">意见收集及反馈表</a></p>
+<div id="技术框架" class="section level2">
+<h2>技术框架</h2>
+<p>技术建站同时，灵活多样的使用其他各种提升效率的技术如：云盘、共享文档等；各类专业托管网站如：Researchgate，Mendeley等。</p>
+<div id="主要技术" class="section level3">
+<h3>主要技术</h3>
+<ul>
+<li><a href="https://github.com/">Github</a>:托管网站</li>
+<li><a href="https://git-scm.com/">Git</a>：推送更新</li>
+<li><a href="https://markdown.com.cn/">Markdown</a>：基本的内容编写语言</li>
+<li><a href="https://www.gohugo.org/">Hugo</a>: 网站模板</li>
+<li><a href="https://www.netlify.com/">Netlify</a>：自动发布和备用域名</li>
+</ul>
+<div id="r相关技术" class="section level4">
+<h4>R相关技术</h4>
+<ul>
+<li><a href="https://cran.r-project.org/">R</a>：全面支持R+markdown的高级内容编写</li>
+<li><a href="https://rstudio.com/">Rstudio</a>：方便编写内容的编辑器</li>
+<li><a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>：结合R和markdown的强大动力</li>
+<li><a href="https://blogdown.rstudio.com/">blogdown</a>：主要的网站维护开发报，遇到问题先运行，这两行代码。
+<ul>
+<li>blogdown:::build_site()</li>
+<li>blogdown:::serve_site()</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="域名管理" class="section level3">
+<h3>域名管理</h3>
+<ul>
+<li>主用域名（解析）：<a href="https://xrlab.org/">www.xrlab.org</a></li>
+<li>备用域名（自动）：<a href="https://xrlab.netlify.app/">xrlab.netlify.app</a></li>
+<li>托管域名（同步）：<a href="https://tianlab.github.io/">tianlab.github.io</a></li>
+</ul>
+</div>
+<div id="更新管理" class="section level3">
+<h3>更新管理</h3>
+<ul>
+<li>第1步：研究生、创新班成员、社团、项目组下载或自建网站模板</li>
+<li>第2步：根据模板用Markdown、Rmarkdown或HTML格式撰写内容</li>
+<li>第3步：内容【标签】主要包括
+<ul>
+<li>周报：一周的进展简短交流汇报,通过共享文档随时写成，周末更新至网站</li>
+<li>月报：月报为学术导向，主要介绍最新论文和领域的发展</li>
+<li>获奖：科技获奖、学生竞赛获奖等</li>
+<li>专著：出版完成的专著的介绍</li>
+<li>论文：发表的论文信的介绍</li>
+<li>专利：授权的专利的介绍</li>
+<li>软著：获批软著的介绍</li>
+<li>演示：制作的PPT等相关演示</li>
+<li>软件：常用软件的讲解</li>
+<li>硬件：常用硬件的讲解</li>
+<li>科普：社团的科普知识</li>
+<li>项目：项目信息和管理介绍</li>
+<li>讲座：讲座信息更新到当日</li>
+<li>通知：各类通知信息等</li>
+<li>活动：学生的组织的活动等</li>
+<li>团队：研究团伙、合作伙伴等</li>
+<li>社团：各社团活动用单独子标签【SIT】【ERA】【iDRREM】</li>
+<li>例会：XRLAB的周会、月会和年会等</li>
+<li>其他</li>
+</ul></li>
+<li>老师审查后修改后上传并发布</li>
+<li>定期发布内容和更新</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="二-综合减灾研究室" class="section level1">
+<h1>二、 <span id="aboutLab">综合减灾研究室</span></h1>
+<div id="研究室介绍" class="section level2">
+<h2>1. 研究室介绍</h2>
+<p><a href="%5BXRLAB%5D(https://www.xrlab.org/2015/07/15/xrlab/)">研究室介绍</a></p>
+</div>
+<div id="团队介绍" class="section level2">
+<h2>2. 团队介绍</h2>
+<div id="负责人" class="section level3">
+<h3>负责人</h3>
+<p><a href="https://www.xrlab.org/tian/">田兵伟 副教授</a></p>
+</div>
+<div id="科研人员" class="section level3">
+<h3>科研人员</h3>
+</div>
+<div id="主要合作者" class="section level3">
+<h3>主要合作者</h3>
+</div>
+<div id="研究生" class="section level3">
+<h3>研究生</h3>
+</div>
+<div id="创新班" class="section level3">
+<h3>创新班</h3>
+</div>
+<div id="学生社团" class="section level3">
+<h3>学生社团</h3>
+<p>四川大学学术型学生社团</p>
+<ol style="list-style-type: decimal">
+<li><p><a href="https://www.xrlab.org/2015/10/13/scusit/">四川大学空间信息技术学会</a></p></li>
+<li><p><a href="https://www.xrlab.org/2016/11/09/scuera/">四川大学应急救援学会</a></p></li>
+<li><p><a href="https://www.xrlab.org/2019/10/13/idrrem/">四川大学国际减灾与应急管理学会</a></p></li>
+</ol>
+</div>
+<div id="项目组" class="section level3">
+<h3>项目组</h3>
+</div>
+</div>
+<div id="项目合作" class="section level2">
+<h2>3. 项目合作</h2>
+<p><a href="https://www.xrlab.org/2016/09/29/dream/">DREAM地图项目</a>
+<a href="">VR安全项目</a>
+<a href="">应急课程开发项目</a></p>
+</div>
+</div>
+<div id="三联系我们" class="section level1">
+<h1>三、<span id="contactUs">联系我们</span></h1>
+<ul>
+<li>校区：四川大学江安校区（东校区）</li>
+<li>地址：四川省成都市双流区黄河中路一段122号 香港马会大楼</li>
+<li>单位：四川大学-香港理工大学 灾后重建与管理学院 (<a href="http://idmr.scu.edu.cn/">IDMR</a>)</li>
+<li>邮编：610207</li>
+<li>邮件：<a href="mailto:xrlab@foxmail.com" class="email">xrlab@foxmail.com</a></li>
+</ul>
+</div>
+<div id="四地理位置" class="section level1">
+<h1>四、<span id="xrlabGeo">地理位置</span></h1>
+<pre class="r"><code>library(leaflet)
+map &lt;- leaflet()
+at &lt;- addTiles(map)
+addMarkers(at,lng=104.0067, lat=30.56346, popup=&quot;这里是XRLAB&quot;)</code></pre>
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[30.56346,104.0067,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"这里是XRLAB",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[30.56346,30.56346],"lng":[104.0067,104.0067]}},"evals":[],"jsHooks":[]}</script>
+</div>
+
+
+  <footer>
+  
+<nav class="post-nav">
+  <span class="nav-prev">&larr; <a href="/post/2015/07/15/xrlab/">【初心】为什么叫XRLAB？</a></span>
+  <span class="nav-next"><a href="/post/2015/09/01/wangshiyan/">【团队】硕士生：王诗炎</a> &rarr;</span>
+</nav>
+
+
+
+
+
+<script src="//yihui.org/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<script async src="//yihui.org/js/center-img.js"></script>
+
+  
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/languages/r.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/languages/yaml.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.12.0/languages/tex.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+  
+  <hr>
+  <div class="copyright">© <a href="https://xrlab.org">XRLAB</a> 2015~2021 | <a href="https://xrlab.yuque.com">Yuque</a> |<a href="https://github.com/bwtian">Github</a> | <a href="https://twitter.com/xieyihui">ResearchGate</a></div>
+  
+  </footer>
+  </article>
+  
+  </body>
+</html>
+

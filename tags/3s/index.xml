@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3S on XRLAB</title>
+    <link>/tags/3s/</link>
+    <description>Recent content in 3S on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【课程】3S06-Research Design 研究设计</title>
+      <link>/post/2020/11/05/3s06/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/11/05/3s06/</guid>
+      <description>研究设计 研究目标  滑坡   研究范围 -尼泊尔
+ 研究尺度  时间:1970-2020 空间:100 m 数据量    数据 GIS  Openstreet Humdata     方法 基线 确定坐标系统  地球坐标系： WGS84：6378137,298.257223563
+ EPSG:4326   特征：单位是°，三维坐标系。
+ 投影坐标系：  特征： 单位是m, 平面坐标系。
+ Nepal_CRS：+proj=tmerc +lat_0=0 +lon_0=84 +k=0.9996 +x_0=500000 +y_0=0 +datum=WGS84 +units=m +no_defs
+ UTM：
+ UTM44N +proj=utm +zone=44 +datum=WGS84 +units=m +no_defs UTM45N +proj=utm +zone=45 +datum=WGS84 +units=m +no_defs    确定网格  起点： - 度分秒 E80°， - 边界</description>
+    </item>
+    
+    <item>
+      <title>【设备】大疆Mavic 2 Pro 无人机专业版</title>
+      <link>/post/2018/09/25/mavic-2-pro/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/09/25/mavic-2-pro/</guid>
+      <description>  前言  XRLAB第三代无人机
+ 课程使用
+ 本科生课程：《无人飞行器在防灾减灾中的应用》2019.3 ~ 研究生课程：《3S减灾技术及其使用》2020.2 ~ 社团双创用：“四川大学空间信息技术学会” 2018.10 ~  科研野外调研轨迹（补充中）
+ 2019.8 阿坝州茂县野外调研 2020.5 凉山州喜德县野外调研 2020.7 西藏野外调研 2020.8 川藏线野外调研  相关发表科研成果
+ 2021.1 “基于无人机影像的长宁地震建筑物震害提取与成因分析”  2018.09.25购自京东大疆立刻飞专卖店,已购入929天（2021-04-11更新）
+ 本机及外围设备累计已投入：1.7227^{4}（2021-04-11更新）
+ 本文档亦是Rmarkdown教学材料
+   大疆Mavic 2 Pro 基本信息 御2哈苏版 # 学习资料
+学习链接 [大疆官网] [学习视频] [下载中心]
+更多详见XR设备QQ群
+  基本操作  拍摄  图像拼接 Agisoft Photoscan  pix4D  Global Mapper  EasyUAV   </description>
+    </item>
+    
+  </channel>
+</rss>
