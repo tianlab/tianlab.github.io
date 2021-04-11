@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on XRLAB</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo-ivy Theme</title>
+      <link>/post/2021/04/11/hugo-ivy-theme/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/hugo-ivy-theme/</guid>
+      <description>  Install  History  Home  _index.Rmd or _index.md under ~/content to control the home page   </description>
+    </item>
+    
+  </channel>
+</rss>
