@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on XRLAB</title>
+    <link>/categories/software/</link>
+    <description>Recent content in Software on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【软件】git</title>
+      <link>/post/2021/04/11/git/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/git/</guid>
+      <description>最近更新于2021-04-11 16:26:29  git基本使用 git 起步 git云端注册流程  git获取ssh并同步本地和云端设置 ssh-keygen -o cat ~/.ssh/id_rsa.pub   然后在github/setting/SSH and GPG keys设置中写入ssh key   git本地基本设置 本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;  git本地已有项目仓库上传至云端  首先在云端创建一个项目，例如xrlab：git@github.com:bwtian/xrlab.git  echo &amp;quot;# xrlab&amp;quot; &amp;gt;&amp;gt; README.md # 创建README.md文件 git init # 创建.git 文件夹，记录版本控制 git add README.md # 添加项目中README.md文件 git add . # 添加项目中文件 git commit -m &amp;quot;first commit&amp;quot; #注释项目变动 git branch -M main #创建为主分支 git remote add origin git@github.</description>
+    </item>
+    
+  </channel>
+</rss>

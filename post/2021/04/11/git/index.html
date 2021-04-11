@@ -15,10 +15,10 @@
 
     
       
-      <meta property="description" content="本机打开git bash 输入以下命令
-git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;  git本地已有项目仓库上传至云端  首先在云端创建一个项目，例 &amp;hellip;">
-      <meta property="og:description" content="本机打开git bash 输入以下命令
-git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global user.email EMAIL # &amp;quot;你的邮箱&amp;quot;  git本地已有项目仓库上传至云端  首先在云端创建一个项目，例 &amp;hellip;">
+      <meta property="description" content="ssh-keygen -o cat ~/.ssh/id_rsa.pub   然后在github/setting/SSH and GPG keys设置中写入ssh key   git本地基本设置 本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global &amp;hellip;">
+      <meta property="og:description" content="ssh-keygen -o cat ~/.ssh/id_rsa.pub   然后在github/setting/SSH and GPG keys设置中写入ssh key   git本地基本设置 本机打开git bash 输入以下命令
+git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quot; git config --global &amp;hellip;">
       
     
 
@@ -93,7 +93,7 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
 
 
 <ul>
-<li><em>最近更新于2021-04-11 15:37:57</em></li>
+<li><em>最近更新于2021-04-11 16:26:29</em></li>
 </ul>
 <div id="git基本使用" class="section level1">
 <h1>git基本使用</h1>
@@ -101,6 +101,14 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
 <h2>git 起步</h2>
 <div id="git云端注册流程" class="section level3">
 <h3>git云端注册流程</h3>
+</div>
+<div id="git获取ssh并同步本地和云端设置" class="section level3">
+<h3>git获取ssh并同步本地和云端设置</h3>
+<pre class="bash"><code>ssh-keygen -o
+cat ~/.ssh/id_rsa.pub </code></pre>
+<ul>
+<li>然后在github/setting/SSH and GPG keys设置中写入ssh key</li>
+</ul>
 </div>
 <div id="git本地基本设置" class="section level3">
 <h3>git本地基本设置</h3>
@@ -146,6 +154,9 @@ git commit -m &quot;$msg&quot;
 # git推送本地到云端
 # git push origin master
 git push</code></pre>
+</div>
+<div id="git中设置网站" class="section level3">
+<h3>git中设置网站</h3>
 </div>
 </div>
 </div>
