@@ -6,7 +6,28 @@
     <description>Recent content in Home on XRLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sections, Categories and Tags of XRLAB site</title>
+      <link>/post/2021/04/16/categories-and-tags-of-rmd/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/16/categories-and-tags-of-rmd/</guid>
+      <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
+Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
+Tags are meant to describe specific details of your posts.</description>
+    </item>
+    
+    <item>
+      <title>【通知】近期学术报告通知</title>
+      <link>/post/2021/04/11/notice/</link>
+      <pubDate>Sun, 11 Apr 2021 15:38:13 +0000</pubDate>
+      
+      <guid>/post/2021/04/11/notice/</guid>
+      <description>  更新时间：2021-04-11 15:38:10’
+ 【2020-10-10 周六 15:30】方一平 研究员：从链式影响到链式适应的逻辑转型——提升生计韧性 （腾讯会议或：376147855 密码：135790）海报  </description>
+    </item>
+    
     <item>
       <title>Hugo-ivy Theme</title>
       <link>/post/2021/04/11/hugo-ivy-theme/</link>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on XRLAB</title>
-    <link>/tags/r/</link>
-    <description>Recent content in R on XRLAB</description>
+    <title>Rmd on XRLAB</title>
+    <link>/tags/rmd/</link>
+    <description>Recent content in Rmd on XRLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rmd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sections, Categories and Tags of XRLAB site</title>
       <link>/post/2021/04/16/categories-and-tags-of-rmd/</link>
@@ -16,15 +16,6 @@
       <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
 Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
 Tags are meant to describe specific details of your posts.</description>
-    </item>
-    
-    <item>
-      <title>Hugo-ivy Theme</title>
-      <link>/post/2021/04/11/hugo-ivy-theme/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021/04/11/hugo-ivy-theme/</guid>
-      <description>  Install  History  Home  _index.Rmd or _index.md under ~/content to control the home page   </description>
     </item>
     
   </channel>
