@@ -6,16 +6,14 @@
     <description>Recent content in Home on XRLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sections, Categories and Tags of XRLAB site</title>
-      <link>/post/2021/04/16/categories-and-tags-of-rmd/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <title>Seminar</title>
+      <link>/post/2021/04/22/seminar/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021/04/16/categories-and-tags-of-rmd/</guid>
-      <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
-Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
-Tags are meant to describe specific details of your posts.</description>
+      <guid>/post/2021/04/22/seminar/</guid>
+      <description>今天我们开了组会</description>
     </item>
     
     <item>
@@ -530,6 +528,18 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
  资料搜索 [兔兔] [风云] [文库]
  XRLAB 内部链接 [每周TODO]
  </description>
+    </item>
+    
+    <item>
+      <title>Sections, Categories and Tags of XRLAB site</title>
+      <link>/post/1/01/01/categories-and-tags-of-rmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1/01/01/categories-and-tags-of-rmd/</guid>
+      <description>2021-04-22
+1+1## [1] 2Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
+Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
+Tags are meant to describe specific details of your posts.</description>
     </item>
     
   </channel>
