@@ -17,24 +17,23 @@
     </item>
     
     <item>
+      <title>Sections, Categories and Tags of XRLAB site</title>
+      <link>/post/2021/04/20/categories-and-tags-of-rmd/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/20/categories-and-tags-of-rmd/</guid>
+      <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
+Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
+Tags are meant to describe specific details of your posts.</description>
+    </item>
+    
+    <item>
       <title>Hugo-ivy Theme</title>
       <link>/post/2021/04/11/hugo-ivy-theme/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/04/11/hugo-ivy-theme/</guid>
       <description>  Install  History  Home  _index.Rmd or _index.md under ~/content to control the home page   </description>
-    </item>
-    
-    <item>
-      <title>Sections, Categories and Tags of XRLAB site</title>
-      <link>/post/1/01/01/categories-and-tags-of-rmd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/1/01/01/categories-and-tags-of-rmd/</guid>
-      <description>2021-04-22
-1+1## [1] 2Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
-Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
-Tags are meant to describe specific details of your posts.</description>
     </item>
     
   </channel>

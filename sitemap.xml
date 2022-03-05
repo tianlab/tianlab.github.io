@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/mac/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/05/16/macbrew/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/3s/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/05/15/rmodis/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/05/15/rscloud/</loc>
+    <lastmod>2021-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cxb/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/drr/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/drr/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/05/05/20210521/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/3s/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/r/</loc>
@@ -20,8 +56,14 @@
     <loc>/post/2021/04/22/seminar/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rmd/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021/04/20/categories-and-tags-of-rmd/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2021/04/11/notice/</loc>
     <lastmod>2021-04-11T15:38:13+00:00</lastmod>
@@ -30,9 +72,6 @@
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2021/04/11/hugo-ivy-theme/</loc>
-    <lastmod>2021-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/software/</loc>
@@ -62,14 +101,14 @@
     <loc>/post/2021/04/06/r-basic/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/2021/03/05/build-web/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/2020/11/11/scss/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2020/11/09/test/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/3s/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2020/11/05/3s06/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
@@ -115,9 +154,6 @@
   </url><url>
     <loc>/post/2020/08/22/onlinetools/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/3s/</loc>
-    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2020/08/06/omap/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
@@ -167,9 +203,6 @@
     <loc>/note/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/note/2017/06/13/a-quick-note/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,9 +218,6 @@
     <loc>/post/2015/09/01/wangshiyan/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2015-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/2015/07/15/</loc>
     <lastmod>2015-07-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -196,12 +226,5 @@
   </url><url>
     <loc>/post/2015/07/15/idmrtian/</loc>
     <lastmod>2015-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/links/</loc>
-    <lastmod>2015-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/rmd/</loc>
-  </url><url>
-    <loc>/post/1/01/01/categories-and-tags-of-rmd/</loc>
   </url>
 </urlset>

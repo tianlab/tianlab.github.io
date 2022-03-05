@@ -6,7 +6,49 @@
     <description>Recent content in Home on XRLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macBrew</title>
+      <link>/post/2021/05/16/macbrew/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/16/macbrew/</guid>
+      <description>HomeBrew
+Introduction https://brew.sh/
+ Before  git    Mirror     brew update --verbose  ## Checking if we need to fetch /usr/local/Homebrew... ## Checking if we need to fetch /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Fetching /usr/local/Homebrew... ## Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Updating /usr/local/Homebrew... ## Switched to and reset branch &amp;#39;master&amp;#39; ## Branch &amp;#39;master&amp;#39; set up to track remote branch &amp;#39;master&amp;#39; from &amp;#39;origin&amp;#39;. ## Your branch is up to date with &amp;#39;origin/master&amp;#39;.</description>
+    </item>
+    
+    <item>
+      <title>rModis</title>
+      <link>/post/2021/05/15/rmodis/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/15/rmodis/</guid>
+      <description>http://blog.sciencenet.cn/blog-437026-1248955.html
+https://cloud.tencent.com/developer/article/1667132</description>
+    </item>
+    
+    <item>
+      <title>遥感数据云服务</title>
+      <link>/post/2021/05/15/rscloud/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/15/rscloud/</guid>
+      <description>遥感数据云服务
+piesat.cn</description>
+    </item>
+    
+    <item>
+      <title>【通知】2021年5·12防灾减灾周期间主要活动链接</title>
+      <link>/post/2021/05/05/20210521/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/05/20210521/</guid>
+      <description>2021-05-10 00:00 ~23:59 联合国儿童基金会实习岗位招募，5月10日截止！
+2021-05-07 17:00 ~19:00 SEADPRI Forum 2021: Risk Science for Resilience Cities - From Concept to Action.,点击注册2021公益未来•美国银行青年发展项目
+</description>
+    </item>
+    
     <item>
       <title>Seminar</title>
       <link>/post/2021/04/22/seminar/</link>
@@ -14,6 +56,17 @@
       
       <guid>/post/2021/04/22/seminar/</guid>
       <description>今天我们开了组会</description>
+    </item>
+    
+    <item>
+      <title>Sections, Categories and Tags of XRLAB site</title>
+      <link>/post/2021/04/20/categories-and-tags-of-rmd/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/20/categories-and-tags-of-rmd/</guid>
+      <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
+Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
+Tags are meant to describe specific details of your posts.</description>
     </item>
     
     <item>
@@ -117,6 +170,15 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
       
       <guid>/post/2021/04/06/r-basic/</guid>
       <description>  安装卸载  Rtools  Rporfile  </description>
+    </item>
+    
+    <item>
+      <title>Build web</title>
+      <link>/post/2021/03/05/build-web/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/03/05/build-web/</guid>
+      <description>本地环境配置    网络环境配置 github 域名环境配置 部署环境配置 </description>
     </item>
     
     <item>
@@ -470,18 +532,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     
     <item>
       <title></title>
-      <link>/about/</link>
-      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>最近更新于2021-04-05 21:55:11本页源代码模板【右键点击另存为/Savelink as】目录一、关于本站二、关于XRLAB三、联系我们四、地理位置一、关于本站本站是XRLAB团队综合信息分享交流网站。秉持学术导向，内容为王；知识丰富，形式从简和综合研究文化建设的办站理念。内容主要由研究生、创新班、社团学生、项目组提供素材，作为日常任务共同维护，每周不定时更新，投稿邮箱：860080618@qq.com。
-注：所有指导社团的相关信息发布、公示、展示和活动均在此网站进行，不再单独建立网站和微信公众号等，主要精力向学术研究靠近。如果你有好的建议和意见：请填写XRLAB网站意见收集及反馈表
-技术框架技术建站同时，灵活多样的使用其他各种提升效率的技术如：云盘、共享文档等；各类专业托管网站如：Researchgate，Mendeley等。
-主要技术Github:托管网站Git：推送更新Markdown：基本的内容编写语言Hugo: 网站模板Netlify：自动发布和备用域名R相关技术R：全面支持R+markdown的高级内容编写Rstudio：方便编写内容的编辑器Rmarkdown：结合R和markdown的强大动力blogdown：主要的网站维护开发报，遇到问题先运行，这两个代码。blogdown:::build_site()blogdown:::serve_site()域名管理主用域名：www.xrlab.org备用域名：xrlab.netlify.app托管域名：tianlab.github.io更新管理第1步：研究生、创新班成员、社团、项目组下载或自建网站模板第2步：根据模板用Markdown、Rmarkdown或HTML格式撰写内容第3步：内容【标签】主要包括周报：一周的进展简短交流汇报,通过共享文档随时写成，周末更新至网站月报：月报为学术导向，主要介绍最新论文和领域的发展获奖：科技获奖、学生竞赛获奖等专著：出版完成的专著的介绍论文：发表的论文信的介绍专利：授权的专利的介绍软著：获批软著的介绍演示：制作的PPT等相关演示软件：常用软件的讲解硬件：常用硬件的讲解科普：社团的科普知识项目：项目信息和管理介绍讲座：讲座信息更新到当日通知：各类通知信息等活动：学生的组织的活动等团队：研究团伙、合作伙伴等社团：各社团活动用单独子标签【SIT】【ERA】【iDRREM】例会：XRLAB的周会、月会和年会等其他老师审查后修改后上传并发布定期发布内容和更新二、 综合减灾研究室1.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/post/2015/07/15/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
@@ -510,36 +560,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       <guid>/post/2015/07/15/idmrtian/</guid>
       <description>  田兵伟 学院官网信息 # 代表性研究成果 # 获奖情况 # 科研项目
  人才培养  </description>
-    </item>
-    
-    <item>
-      <title>常用链接</title>
-      <link>/links/</link>
-      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/links/</guid>
-      <description>  IDMR友情链接  [灾后重建与管理学院]  中心所  [全国青少年防灾减灾教育研究基地] [四川省应急管理厅-四川大学综合减灾研究中心] [四川大学安全应急技能训练中心]   国际平台  [AOA-HELP] [Uinspire-Huaxia] [HUC-DRRR]   个人网站 [Basanta] [Glenn]
- 双创 [安全圈]
-  四川大学 [校车表] [校历]
-系统 [信息门户] [财务处] [教务处] [科研院] [设备处] http://smartlab.scu.edu.cn/lims/home/index.dhtml
- 教学 [大创] [泛雅] [研究生院] [教务处] [各学院]
- 科研 [科研院] [社科处] [设备处]
- 国际交流  社会服务   GIS数据 【数据】3S数据源链接
- 资料搜索 [兔兔] [风云] [文库]
- XRLAB 内部链接 [每周TODO]
- </description>
-    </item>
-    
-    <item>
-      <title>Sections, Categories and Tags of XRLAB site</title>
-      <link>/post/1/01/01/categories-and-tags-of-rmd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/1/01/01/categories-and-tags-of-rmd/</guid>
-      <description>2021-04-22
-1+1## [1] 2Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
-Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
-Tags are meant to describe specific details of your posts.</description>
     </item>
     
   </channel>

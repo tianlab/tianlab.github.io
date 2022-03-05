@@ -6,7 +6,49 @@
     <description>Recent content in Posts on XRLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macBrew</title>
+      <link>/post/2021/05/16/macbrew/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/16/macbrew/</guid>
+      <description>HomeBrew
+Introduction https://brew.sh/
+ Before  git    Mirror     brew update --verbose  ## Checking if we need to fetch /usr/local/Homebrew... ## Checking if we need to fetch /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Fetching /usr/local/Homebrew... ## Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Updating /usr/local/Homebrew... ## Switched to and reset branch &amp;#39;master&amp;#39; ## Branch &amp;#39;master&amp;#39; set up to track remote branch &amp;#39;master&amp;#39; from &amp;#39;origin&amp;#39;. ## Your branch is up to date with &amp;#39;origin/master&amp;#39;.</description>
+    </item>
+    
+    <item>
+      <title>rModis</title>
+      <link>/post/2021/05/15/rmodis/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/15/rmodis/</guid>
+      <description>http://blog.sciencenet.cn/blog-437026-1248955.html
+https://cloud.tencent.com/developer/article/1667132</description>
+    </item>
+    
+    <item>
+      <title>遥感数据云服务</title>
+      <link>/post/2021/05/15/rscloud/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/15/rscloud/</guid>
+      <description>遥感数据云服务
+piesat.cn</description>
+    </item>
+    
+    <item>
+      <title>【通知】2021年5·12防灾减灾周期间主要活动链接</title>
+      <link>/post/2021/05/05/20210521/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/05/20210521/</guid>
+      <description>2021-05-10 00:00 ~23:59 联合国儿童基金会实习岗位招募，5月10日截止！
+2021-05-07 17:00 ~19:00 SEADPRI Forum 2021: Risk Science for Resilience Cities - From Concept to Action.,点击注册2021公益未来•美国银行青年发展项目
+</description>
+    </item>
+    
     <item>
       <title>Seminar</title>
       <link>/post/2021/04/22/seminar/</link>
@@ -14,6 +56,17 @@
       
       <guid>/post/2021/04/22/seminar/</guid>
       <description>今天我们开了组会</description>
+    </item>
+    
+    <item>
+      <title>Sections, Categories and Tags of XRLAB site</title>
+      <link>/post/2021/04/20/categories-and-tags-of-rmd/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/04/20/categories-and-tags-of-rmd/</guid>
+      <description>Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
+Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
+Tags are meant to describe specific details of your posts.</description>
     </item>
     
     <item>
@@ -105,6 +158,15 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
       
       <guid>/post/2021/04/06/r-basic/</guid>
       <description>  安装卸载  Rtools  Rporfile  </description>
+    </item>
+    
+    <item>
+      <title>Build web</title>
+      <link>/post/2021/03/05/build-web/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/03/05/build-web/</guid>
+      <description>本地环境配置    网络环境配置 github 域名环境配置 部署环境配置 </description>
     </item>
     
     <item>
@@ -467,18 +529,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       <guid>/post/2015/07/15/idmrtian/</guid>
       <description>  田兵伟 学院官网信息 # 代表性研究成果 # 获奖情况 # 科研项目
  人才培养  </description>
-    </item>
-    
-    <item>
-      <title>Sections, Categories and Tags of XRLAB site</title>
-      <link>/post/1/01/01/categories-and-tags-of-rmd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/1/01/01/categories-and-tags-of-rmd/</guid>
-      <description>2021-04-22
-1+1## [1] 2Sections are meant for the folders of your posts. Think of these as physical location of the posts. Sections are hierarchical which means you can create sub-sections.
-Categories are meant for broad grouping of your posts. Think of these as general topics or the table of contents for your site. Categories are hierarchical which means you can create sub-categories.
-Tags are meant to describe specific details of your posts.</description>
     </item>
     
   </channel>

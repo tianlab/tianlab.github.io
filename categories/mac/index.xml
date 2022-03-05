@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on XRLAB</title>
+    <link>/categories/mac/</link>
+    <description>Recent content in Mac on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macBrew</title>
+      <link>/post/2021/05/16/macbrew/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/16/macbrew/</guid>
+      <description>HomeBrew
+Introduction https://brew.sh/
+ Before  git    Mirror     brew update --verbose  ## Checking if we need to fetch /usr/local/Homebrew... ## Checking if we need to fetch /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Fetching /usr/local/Homebrew... ## Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core... ## Updating /usr/local/Homebrew... ## Switched to and reset branch &amp;#39;master&amp;#39; ## Branch &amp;#39;master&amp;#39; set up to track remote branch &amp;#39;master&amp;#39; from &amp;#39;origin&amp;#39;. ## Your branch is up to date with &amp;#39;origin/master&amp;#39;.</description>
+    </item>
+    
+  </channel>
+</rss>
