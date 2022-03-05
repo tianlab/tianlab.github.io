@@ -109,15 +109,6 @@ OSM Daily Cygwin: wget -c http://download.geofabrik.de/asia/china-latest-free.sh
     </item>
     
     <item>
-      <title>【论文】文献导读</title>
-      <link>/post/2021/04/11/literature/</link>
-      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021/04/11/literature/</guid>
-      <description>  本周推荐  周报选读  经典导读  </description>
-    </item>
-    
-    <item>
       <title>【软件】git</title>
       <link>/post/2021/04/11/git/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
@@ -192,15 +183,6 @@ git config –global user.email “bwtian@qq.com”
     </item>
     
     <item>
-      <title>【iDRREM】International DRR and Emergency Management Innovation Class</title>
-      <link>/post/2020/10/29/innovationclass/</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/10/29/innovationclass/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
       <title>【讲座】Webinar by Professor Nizar Abu Jaber on &#34;Flood Control and Water Management in Nabatean Petra&#34; 19th October 2020.</title>
       <link>/post/2020/10/19/flood1/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
@@ -259,17 +241,6 @@ git config –global user.email “bwtian@qq.com”
     </item>
     
     <item>
-      <title>【论文】常读期刊 Academic Journals</title>
-      <link>/post/2020/10/07/journals/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/10/07/journals/</guid>
-      <description>  四川大学图书馆　　Research Gate　
-Nature Index A+ Cell　 Nature　 Science　
- A  NatureIndex Nature Geoscience Nature CliamteChange    Top in Related Filed  中文核心  灾害学   综合期刊  中国应急管理 中央级综合性应急管理刊物   </description>
-    </item>
-    
-    <item>
       <title>【团队】实验室文化建设的重要性参考</title>
       <link>/post/2020/10/06/culture/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
@@ -287,18 +258,6 @@ Nature Index A+ Cell　 Nature　 Science　
       
       <guid>/post/2020/09/01/2020sit-leaders/</guid>
       <description>  会长  干事  主要活动计划  </description>
-    </item>
-    
-    <item>
-      <title>【论文】尼泊尔的应急管理简介</title>
-      <link>/post/2020/08/26/paper20200826/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/08/26/paper20200826/</guid>
-      <description>  下载地址 CNKI
- 引用本论文  中文引用：田兵伟,Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020).尼泊尔的应急管理简介.中国应急管理(08),ISSN：1673-8624, 72-75.
- Citation：Bingwei Tian, Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020). Introduction of Emergency management in Nepal. China Emergeny Management(08), ISSN：1673-8624,72-75.
-   Bib  项目支持  内容简介  </description>
     </item>
     
     <item>

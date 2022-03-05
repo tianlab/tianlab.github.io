@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers on XRLAB</title>
+    <link>/paper/</link>
+    <description>Recent content in Papers on XRLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【论文】文献导读</title>
+      <link>/paper/literature/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/literature/</guid>
+      <description>本周推荐周报选读经典导读</description>
+    </item>
+    
+    <item>
+      <title>【论文】常读期刊 Academic Journals</title>
+      <link>/paper/journals/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/journals/</guid>
+      <description>四川大学图书馆　　Research Gate　
+Nature IndexA+Cell　Nature　Science　
+ANatureIndexNature GeoscienceNature CliamteChangeTop in Related Filed中文核心灾害学综合期刊中国应急管理 中央级综合性应急管理刊物</description>
+    </item>
+    
+    <item>
+      <title>【论文】尼泊尔的应急管理简介</title>
+      <link>/paper/paper20200826/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/paper20200826/</guid>
+      <description>下载地址CNKI
+引用本论文中文引用：田兵伟,Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020).尼泊尔的应急管理简介.中国应急管理(08),ISSN：1673-8624, 72-75.
+Citation：Bingwei Tian, Basanta Raj Adhikari &amp;amp; Subash Thapaliya.(2020). Introduction of Emergency management in Nepal. China Emergeny Management(08), ISSN：1673-8624,72-75.
+Bib项目支持内容简介</description>
+    </item>
+    
+  </channel>
+</rss>
