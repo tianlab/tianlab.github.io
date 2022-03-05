@@ -36,5 +36,23 @@ Tags are meant to describe specific details of your posts.</description>
       <description>  Install  History  Home  _index.Rmd or _index.md under ~/content to control the home page   </description>
     </item>
     
+    <item>
+      <title>Build web 如何配置R网站</title>
+      <link>/post/2021/03/05/build-web/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/03/05/build-web/</guid>
+      <description>本地环境配置R
+Rstudio
+Git
+git config –global user.name “bwtian”
+git config –global user.email “bwtian@qq.com”
+网络环境配置githuborg地址：https://github.com/tianlabpublic仓库：tianlab.github.io
+域名环境配置部署环境配置#!/bin/sh
+#echo -e “\033[0;32mDeploying updates to GitHub…\033[0m” # for windows, or mac error
+Go To Public foldercd public# Add changes to git.git pullgit add .
+Commit changes.msg=“rebuilding site date”if [ $# -eq 1 ]then msg=“\(1&amp;quot; fi git commit -m &amp;quot;\)msg”</description>
+    </item>
+    
   </channel>
 </rss>

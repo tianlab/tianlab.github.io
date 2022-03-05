@@ -39,17 +39,6 @@ piesat.cn</description>
     </item>
     
     <item>
-      <title>【通知】2021年5·12防灾减灾周期间主要活动链接</title>
-      <link>/post/2021/05/05/20210521/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021/05/05/20210521/</guid>
-      <description>2021-05-10 00:00 ~23:59 联合国儿童基金会实习岗位招募，5月10日截止！
-2021-05-07 17:00 ~19:00 SEADPRI Forum 2021: Risk Science for Resilience Cities - From Concept to Action.,点击注册2021公益未来•美国银行青年发展项目
-</description>
-    </item>
-    
-    <item>
       <title>Seminar</title>
       <link>/post/2021/04/22/seminar/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
@@ -173,23 +162,21 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
     </item>
     
     <item>
-      <title>Build web</title>
+      <title>Build web 如何配置R网站</title>
       <link>/post/2021/03/05/build-web/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/03/05/build-web/</guid>
-      <description>本地环境配置    网络环境配置 github 域名环境配置 部署环境配置 </description>
-    </item>
-    
-    <item>
-      <title>【报奖】2020第19次四川省社会科学优秀成果评奖</title>
-      <link>/post/2020/11/11/scss/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/11/11/scss/</guid>
-      <description>  # 资格  渠道  高校 学会   系统 报奖系统
- 通知 四川大学社科处
- </description>
+      <description>本地环境配置R
+Rstudio
+Git
+git config –global user.name “bwtian”
+git config –global user.email “bwtian@qq.com”
+网络环境配置githuborg地址：https://github.com/tianlabpublic仓库：tianlab.github.io
+域名环境配置部署环境配置#!/bin/sh
+#echo -e “\033[0;32mDeploying updates to GitHub…\033[0m” # for windows, or mac error
+Go To Public foldercd public# Add changes to git.git pullgit add .
+Commit changes.msg=“rebuilding site date”if [ $# -eq 1 ]then msg=“\(1&amp;quot; fi git commit -m &amp;quot;\)msg”</description>
     </item>
     
     <item>
@@ -316,10 +303,10 @@ Nature Index A+ Cell　 Nature　 Science　
     
     <item>
       <title>【团队】硕士生：郑帆帆</title>
-      <link>/post/2020/09/01/zhengfanfan/</link>
+      <link>/team/zhengfanfan/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/2020/09/01/zhengfanfan/</guid>
+      <guid>/team/zhengfanfan/</guid>
       <description>  个人介绍  在学期间：2020.9 ~ 2023.6  # 研究方向   参与项目  发表论文  荣誉获奖  硕士论文  毕业去向  </description>
     </item>
     
@@ -399,10 +386,10 @@ Nature Index A+ Cell　 Nature　 Science　
     
     <item>
       <title>【团队】硕士生：苟晓芸</title>
-      <link>/post/2019/09/01/gouxiaoyun/</link>
+      <link>/team/gouxiaoyun/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/09/01/gouxiaoyun/</guid>
+      <guid>/team/gouxiaoyun/</guid>
       <description>  个人介绍  在学期间：2019.9 ~ 2022.6   硕士论文  毕业去向  </description>
     </item>
     
@@ -439,37 +426,37 @@ Nature Index A+ Cell　 Nature　 Science　
     
     <item>
       <title>【团队】硕士生：顾诗瑶</title>
-      <link>/post/2018/09/01/gouxiaoyun/</link>
+      <link>/team/gouxiaoyun/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/09/01/gouxiaoyun/</guid>
+      <guid>/team/gouxiaoyun/</guid>
       <description>  个人介绍  在学期间：2018.9 ~ 2021.6   硕士论文  毕业去向  </description>
     </item>
     
     <item>
       <title>【团队】访问学者：王桂莲</title>
-      <link>/post/2018/01/01/wangguilian/</link>
+      <link>/team/wangguilian/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/01/01/wangguilian/</guid>
+      <guid>/team/wangguilian/</guid>
       <description>  访问时间  2018.1.1 - 2018.12.31   参与项目  成都市慈善总会茂县灾区灾后重建服务项目   主要成果  《茂县灾后重建项目100问》   工作单位  高校   </description>
     </item>
     
     <item>
       <title>【团队】硕士生：陈飞宇</title>
-      <link>/post/2017/09/01/chenfeiyu/</link>
+      <link>/team/chenfeiyu/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/09/01/chenfeiyu/</guid>
+      <guid>/team/chenfeiyu/</guid>
       <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生    </description>
     </item>
     
     <item>
       <title>【团队】硕士生：黄斌</title>
-      <link>/post/2017/09/01/huangbin/</link>
+      <link>/team/huangbin/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/09/01/huangbin/</guid>
+      <guid>/team/huangbin/</guid>
       <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生   </description>
     </item>
     
@@ -523,10 +510,10 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     
     <item>
       <title>【团队】硕士生：王诗炎</title>
-      <link>/post/2015/09/01/wangshiyan/</link>
+      <link>/team/wangshiyan/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015/09/01/wangshiyan/</guid>
+      <guid>/team/wangshiyan/</guid>
       <description>  个人介绍  在学期间：2015.9 ~ 2018.6   发表论文  硕士论文  毕业去向  事业单位   </description>
     </item>
     
@@ -554,10 +541,10 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     
     <item>
       <title>【团队】田老师IDMR网站简介更新</title>
-      <link>/post/2015/07/15/idmrtian/</link>
+      <link>/team/idmrtian/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015/07/15/idmrtian/</guid>
+      <guid>/team/idmrtian/</guid>
       <description>  田兵伟 学院官网信息 # 代表性研究成果 # 获奖情况 # 科研项目
  人才培养  </description>
     </item>

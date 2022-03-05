@@ -39,17 +39,6 @@ piesat.cn</description>
     </item>
     
     <item>
-      <title>【通知】2021年5·12防灾减灾周期间主要活动链接</title>
-      <link>/post/2021/05/05/20210521/</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021/05/05/20210521/</guid>
-      <description>2021-05-10 00:00 ~23:59 联合国儿童基金会实习岗位招募，5月10日截止！
-2021-05-07 17:00 ~19:00 SEADPRI Forum 2021: Risk Science for Resilience Cities - From Concept to Action.,点击注册2021公益未来•美国银行青年发展项目
-</description>
-    </item>
-    
-    <item>
       <title>Seminar</title>
       <link>/post/2021/04/22/seminar/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
@@ -161,23 +150,21 @@ git config --global user.name YOURNAME # &amp;quot;你的名字或昵称&amp;quo
     </item>
     
     <item>
-      <title>Build web</title>
+      <title>Build web 如何配置R网站</title>
       <link>/post/2021/03/05/build-web/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/post/2021/03/05/build-web/</guid>
-      <description>本地环境配置    网络环境配置 github 域名环境配置 部署环境配置 </description>
-    </item>
-    
-    <item>
-      <title>【报奖】2020第19次四川省社会科学优秀成果评奖</title>
-      <link>/post/2020/11/11/scss/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/11/11/scss/</guid>
-      <description>  # 资格  渠道  高校 学会   系统 报奖系统
- 通知 四川大学社科处
- </description>
+      <description>本地环境配置R
+Rstudio
+Git
+git config –global user.name “bwtian”
+git config –global user.email “bwtian@qq.com”
+网络环境配置githuborg地址：https://github.com/tianlabpublic仓库：tianlab.github.io
+域名环境配置部署环境配置#!/bin/sh
+#echo -e “\033[0;32mDeploying updates to GitHub…\033[0m” # for windows, or mac error
+Go To Public foldercd public# Add changes to git.git pullgit add .
+Commit changes.msg=“rebuilding site date”if [ $# -eq 1 ]then msg=“\(1&amp;quot; fi git commit -m &amp;quot;\)msg”</description>
     </item>
     
     <item>
@@ -303,15 +290,6 @@ Nature Index A+ Cell　 Nature　 Science　
     </item>
     
     <item>
-      <title>【团队】硕士生：郑帆帆</title>
-      <link>/post/2020/09/01/zhengfanfan/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/09/01/zhengfanfan/</guid>
-      <description>  个人介绍  在学期间：2020.9 ~ 2023.6  # 研究方向   参与项目  发表论文  荣誉获奖  硕士论文  毕业去向  </description>
-    </item>
-    
-    <item>
       <title>【论文】尼泊尔的应急管理简介</title>
       <link>/post/2020/08/26/paper20200826/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
@@ -386,15 +364,6 @@ Nature Index A+ Cell　 Nature　 Science　
     </item>
     
     <item>
-      <title>【团队】硕士生：苟晓芸</title>
-      <link>/post/2019/09/01/gouxiaoyun/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019/09/01/gouxiaoyun/</guid>
-      <description>  个人介绍  在学期间：2019.9 ~ 2022.6   硕士论文  毕业去向  </description>
-    </item>
-    
-    <item>
       <title>【项目】美丽中国：山地灾害教育培训与VR情景模拟</title>
       <link>/post/2019/01/01/beautifulchina/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -423,42 +392,6 @@ Nature Index A+ Cell　 Nature　 Science　
 学习链接 [大疆官网] [学习视频] [下载中心]
 更多详见XR设备QQ群
   基本操作  拍摄  图像拼接 Agisoft Photoscan  pix4D  Global Mapper  EasyUAV   </description>
-    </item>
-    
-    <item>
-      <title>【团队】硕士生：顾诗瑶</title>
-      <link>/post/2018/09/01/gouxiaoyun/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/09/01/gouxiaoyun/</guid>
-      <description>  个人介绍  在学期间：2018.9 ~ 2021.6   硕士论文  毕业去向  </description>
-    </item>
-    
-    <item>
-      <title>【团队】访问学者：王桂莲</title>
-      <link>/post/2018/01/01/wangguilian/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018/01/01/wangguilian/</guid>
-      <description>  访问时间  2018.1.1 - 2018.12.31   参与项目  成都市慈善总会茂县灾区灾后重建服务项目   主要成果  《茂县灾后重建项目100问》   工作单位  高校   </description>
-    </item>
-    
-    <item>
-      <title>【团队】硕士生：陈飞宇</title>
-      <link>/post/2017/09/01/chenfeiyu/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/09/01/chenfeiyu/</guid>
-      <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生    </description>
-    </item>
-    
-    <item>
-      <title>【团队】硕士生：黄斌</title>
-      <link>/post/2017/09/01/huangbin/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/09/01/huangbin/</guid>
-      <description>  个人介绍  在学期间：2017.9 ~ 2020.6   硕士论文  毕业去向  成都市选调生   </description>
     </item>
     
     <item>
@@ -491,15 +424,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
     </item>
     
     <item>
-      <title>【团队】硕士生：王诗炎</title>
-      <link>/post/2015/09/01/wangshiyan/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/09/01/wangshiyan/</guid>
-      <description>  个人介绍  在学期间：2015.9 ~ 2018.6   发表论文  硕士论文  毕业去向  事业单位   </description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/post/2015/07/15/</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
@@ -519,16 +443,6 @@ DREAM是在生态文明、绿色发展、美丽城乡、安全城市、韧性社
       <guid>/post/2015/07/15/xrlab/</guid>
       <description>  XRLAB中的X代表未知和创新，XR主要指X个R打头的研兴趣和方向，分别指研究，即研究以Resilience为中心的综合减灾；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以RS为中心的3S减灾技术；研究以R为中心的灾害大数据技术。LAB是Labratory的缩略，指研究室，固XRLAB简称综合减灾研究室。
 研究以Resilience为核心的综合减灾  Risk Assessment &amp;amp; Avoidance/Prevention 防灾：事前防灾免灾避灾 Risk Reduction/Disaster Mitigation/ 减灾：事前减灾发展 Readiness/Preparation/Risk transfer 备灾：事前备灾应急准备 Response/Rescue/Relief 救灾：事中应变应急响应救援救急 Recovery/Re-opening 事后恢复善后 Reconstruction 灾后重建规划 Rehablitation 灾后康复 Return/Risk retention 恢复到原状 Risk Communication 风险沟通 Resilience 韧性：一心强韧，综合减灾   研究以RS为核心的3S减灾技术  RS 遥感 GIS 地理信息系统  讲授硕士课程《3S减灾技术及其应用》  GNSS 导航定位系统 UAV 无人机技术  讲授本科课程《无人飞行器在防灾减灾中的应用》  Map 参与式制图方法  DREAM地图, 主编《减灾生态艺术地图创新与实践》. 四川美术出版社. 2016    研究以VR为核心的虚拟仿真技术  VR 虚拟现实 AR 扩展现实 MR 混合现实 BIM 建筑信息模型 Digital twin 数字孪生   研究以R为核心的灾害大数据技术  R Diaster 灾害大数据：讲授课程《灾害信息学与大数据》 R Visualization 可视化 R GeoHealth 健康地理大数据   </description>
-    </item>
-    
-    <item>
-      <title>【团队】田老师IDMR网站简介更新</title>
-      <link>/post/2015/07/15/idmrtian/</link>
-      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/07/15/idmrtian/</guid>
-      <description>  田兵伟 学院官网信息 # 代表性研究成果 # 获奖情况 # 科研项目
- 人才培养  </description>
     </item>
     
   </channel>

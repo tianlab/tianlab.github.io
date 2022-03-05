@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Build web - XRLAB</title>
-    <meta property="og:title" content="Build web - XRLAB">
+    <title>Build web 如何配置R网站 - XRLAB</title>
+    <meta property="og:title" content="Build web 如何配置R网站 - XRLAB">
     
     <meta name="twitter:card" content="summary">
 
@@ -14,6 +14,19 @@
     
 
     
+      
+      <meta property="description" content="R
+[&amp;hellip;] Rstudio
+[&amp;hellip;] Git
+[&amp;hellip;] git config –global user.name “bwtian”
+git config –global user.email “bwtian@qq.com”
+[&amp;hellip;] org地址：https://github.com/tianlabpublic仓 &amp;hellip;">
+      <meta property="og:description" content="R
+[&amp;hellip;] Rstudio
+[&amp;hellip;] Git
+[&amp;hellip;] git config –global user.name “bwtian”
+git config –global user.email “bwtian@qq.com”
+[&amp;hellip;] org地址：https://github.com/tianlabpublic仓 &amp;hellip;">
       
     
 
@@ -56,6 +69,8 @@
   
   <li><a href="/tags/">Tags</a></li>
   
+  <li><a href="/links/">Links</a></li>
+  
   <li><a href="/index.xml">Subscribe</a></li>
   
   
@@ -67,7 +82,7 @@
     <article class="main">
       <header class="title">
       
-<h1>Build web</h1>
+<h1>Build web 如何配置R网站</h1>
 
 <h3>TBW
   /  2021-03-05</h3>
@@ -78,20 +93,64 @@
 
 
 
-<h1 id="本地环境配置">本地环境配置</h1>
-<ol>
-<li></li>
+
+<script src="/post/2021/03/05/build-web/index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="本地环境配置" class="section level1">
+<h1>本地环境配置</h1>
+<ol style="list-style-type: decimal">
+<li><p>R</p></li>
+<li><p>Rstudio</p></li>
+<li><p>Git</p></li>
 </ol>
-<h1 id="网络环境配置">网络环境配置</h1>
-<h2 id="github">github</h2>
-<h1 id="域名环境配置">域名环境配置</h1>
-<h1 id="部署环境配置">部署环境配置</h1>
+<p>git config –global user.name “bwtian”</p>
+<p>git config –global user.email “<a href="mailto:bwtian@qq.com" class="email">bwtian@qq.com</a>”</p>
+</div>
+<div id="网络环境配置" class="section level1">
+<h1>网络环境配置</h1>
+<div id="github" class="section level2">
+<h2>github</h2>
+<p>org地址：<a href="https://github.com/tianlab" class="uri">https://github.com/tianlab</a>
+public仓库：tianlab.github.io</p>
+</div>
+</div>
+<div id="域名环境配置" class="section level1">
+<h1>域名环境配置</h1>
+</div>
+<div id="部署环境配置" class="section level1">
+<h1>部署环境配置</h1>
+<p>#!/bin/sh</p>
+<p>#echo -e “\033[0;32mDeploying updates to GitHub…\033[0m” # for windows, or mac error</p>
+</div>
+<div id="go-to-public-folder" class="section level1">
+<h1>Go To Public folder</h1>
+<p>cd public
+# Add changes to git.
+git pull
+git add .</p>
+</div>
+<div id="commit-changes." class="section level1">
+<h1>Commit changes.</h1>
+<p>msg=“rebuilding site <code>date</code>”
+if [ $# -eq 1 ]
+then msg=“<span class="math inline">\(1&quot; fi git commit -m &quot;\)</span>msg”</p>
+</div>
+<div id="push-source-and-build-repos." class="section level1">
+<h1>Push source and build repos.</h1>
+</div>
+<div id="git-push-origin-master" class="section level1">
+<h1>git push origin master</h1>
+<p>git push
+# Come Back up to the Project Root
+cd ..</p>
+</div>
 
 
   <footer>
   
 <nav class="post-nav">
-  <span class="nav-prev">&larr; <a href="/post/2020/11/11/scss/">【报奖】2020第19次四川省社会科学优秀成果评奖</a></span>
+  <span class="nav-prev">&larr; <a href="/post/2020/11/09/test/">test</a></span>
   <span class="nav-next"><a href="/post/2021/04/06/r-basic/">R basic</a> &rarr;</span>
 </nav>
 
@@ -108,7 +167,7 @@
 
   
   <hr>
-  <div class="copyright">© <a href="https://xrlab.org">XRLAB</a> 2015~2021 | <a href="https://xrlab.yuque.com">Yuque</a> |<a href="https://github.com/bwtian">Github</a> | <a href="https://twitter.com/xieyihui">ResearchGate</a></div>
+  <div class="copyright">© <a href="https://xrlab.org">XRLAB</a> 2015~2022 | <a href="https://xrlab.yuque.com">Yuque</a> |<a href="https://github.com/bwtian">Github</a> | <a href="https://twitter.com/xieyihui">ResearchGate</a></div>
   
   </footer>
   </article>

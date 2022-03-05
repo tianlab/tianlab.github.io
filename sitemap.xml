@@ -32,18 +32,6 @@
     <loc>/post/2021/05/15/rscloud/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cxb/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/drr/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/drr/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2021/05/05/20210521/</loc>
-    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/3s/</loc>
     <lastmod>2021-04-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -104,9 +92,6 @@
     <loc>/post/2021/03/05/build-web/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020/11/11/scss/</loc>
-    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/post/2020/11/09/test/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -140,7 +125,7 @@
     <loc>/post/2020/09/01/2020sit-leaders/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020/09/01/zhengfanfan/</loc>
+    <loc>/team/zhengfanfan/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2020/08/26/paper20200826/</loc>
@@ -173,7 +158,7 @@
     <loc>/categories/master/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2019/09/01/gouxiaoyun/</loc>
+    <loc>/team/gouxiaoyun/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2019/01/01/beautifulchina/</loc>
@@ -182,16 +167,16 @@
     <loc>/post/2018/09/25/mavic-2-pro/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2018/09/01/gouxiaoyun/</loc>
+    <loc>/team/gouxiaoyun/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2018/01/01/wangguilian/</loc>
+    <loc>/team/wangguilian/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2017/09/01/chenfeiyu/</loc>
+    <loc>/team/chenfeiyu/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2017/09/01/huangbin/</loc>
+    <loc>/team/huangbin/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/note/2017/06/14/another-note/</loc>
@@ -215,7 +200,7 @@
     <loc>/post/2015/10/13/scusit/</loc>
     <lastmod>2015-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/09/01/wangshiyan/</loc>
+    <loc>/team/wangshiyan/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2015/07/15/</loc>
@@ -224,7 +209,7 @@
     <loc>/post/2015/07/15/xrlab/</loc>
     <lastmod>2015-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/15/idmrtian/</loc>
+    <loc>/team/idmrtian/</loc>
     <lastmod>2015-07-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>
